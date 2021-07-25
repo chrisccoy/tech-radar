@@ -18,7 +18,7 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/thockin/go-build-template/pkg/types"
+	"github.com/chrisccoy/tech-radar/pkg/types"
 	"io/ioutil"
 	"log"
 	"time"
@@ -137,7 +137,7 @@ func buildRadarData(coverage LanguageCoverage)*types.TechRadar {
 	radar.Quadrants=append(radar.Quadrants,types.Quadrant{ID: "Languages", Name: "Languages"})
 	radar.Rings=append(radar.Rings, types.Ring{ID: HighUse, Name: HighUse, Color: HighUseColor}, types.Ring{ID: MediumUse, Name: MediumUse, Color: MediumUseColor}, types.Ring{ID: LowUse, Name: LowUse,Color: LowUseColor} )
 	for k, i := range coverage.lang {
-		entry:=types.Entry{Timeline: makeTimeLineEntry(k,i, coverage.maxLang),ID: k, Key: k, Title: k, URL:"#", Description: k, Quadrant: "Languages", }
+		entry:=types.Entry{Timeline: makeTimeLineEntry(k,i, coverage.maxLang),ID: k, Key: k, Title: k, URL:"#", Description: k, Quadrant: "Languages"}
 		radar.Entries = append(radar.Entries, entry)
 
 	}

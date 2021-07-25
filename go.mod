@@ -1,4 +1,4 @@
-module github.com/thockin/go-build-template
+module github.com/chrisccoy/tech-radar
 
 go 1.15
 
