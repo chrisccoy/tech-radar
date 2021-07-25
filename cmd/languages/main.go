@@ -21,6 +21,7 @@ import (
 	"github.com/chrisccoy/tech-radar/pkg/types"
 	"io/ioutil"
 	"log"
+	"os"
 	"time"
 
 	"github.com/xanzy/go-gitlab"
@@ -47,7 +48,7 @@ type LanguageCoverage struct {
 func getLanguagesByGroup() {
 
 	langCoverage := LanguageCoverage{lang: make(map[string]int)}
-	git, err := gitlab.NewClient("tf8dgQf_wkMysAfpcaTw", gitlab.WithBaseURL("https://git.ecd.axway.org"))
+	git, err := gitlab.NewClient(os.Getenv("GITLAB_TOKEN"), gitlab.WithBaseURL(os.Getenv("GITLAB_URL")))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -81,7 +82,7 @@ func getLanguagesByGroup() {
 func getLanguages() {
 
 	langCoverage := LanguageCoverage{lang: make(map[string]int)}
-	git, err := gitlab.NewClient("tf8dgQf_wkMysAfpcaTw", gitlab.WithBaseURL("https://git.ecd.axway.org"))
+	git, err := gitlab.NewClient(os.Getenv("GITLAB_TOKEN"), gitlab.WithBaseURL(os.Getenv("GITLAB_URL")))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -101,10 +102,12 @@ func getLanguages() {
 		log.Printf("Current State: %v", resp)
 
 		for _, s := range proj {
-			langCoverage.ttlProject++
 			languages, _, err := git.Projects.GetProjectLanguages(s.ID)
 			if err != nil {
 				log.Fatal(err)
+			}
+			if len(*languages) > 0 {
+				langCoverage.ttlProject++
 			}
 			for l, _ := range *languages {
 				curr := langCoverage.lang[l]
@@ -126,6 +129,7 @@ func getLanguages() {
 		// Update the page number to get the next page.
 		opt.Page = resp.NextPage
 	}
+	log.Printf("Coverages: %v", langCoverage)
 	radar:= buildRadarData(langCoverage)
 	radarj, err :=json.MarshalIndent(radar, "", "    ")
 	log.Printf("Json radar: %s", radarj)
