@@ -141,20 +141,44 @@ func buildRadarData(coverage LanguageCoverage)*types.TechRadar {
 	radar.Quadrants=append(radar.Quadrants,types.Quadrant{ID: "Languages", Name: "Languages"})
 	radar.Rings=append(radar.Rings, types.Ring{ID: HighUse, Name: HighUse, Color: HighUseColor}, types.Ring{ID: MediumUse, Name: MediumUse, Color: MediumUseColor}, types.Ring{ID: LowUse, Name: LowUse,Color: LowUseColor} )
 	for k, i := range coverage.lang {
-		entry:=types.Entry{Timeline: makeTimeLineEntry(k,i, coverage.maxLang),ID: k, Key: k, Title: k, URL:"#", Description: k, Quadrant: "Languages"}
+		entry:=types.Entry{Timeline: makeTimeLineEntry(k, float32(i)/float32(coverage.maxLang), float32(coverage.maxLang)/float32(coverage.ttlProject)),ID: k, Key: k, Title: k, URL:"#", Description: k, Quadrant: "Languages"}
 		radar.Entries = append(radar.Entries, entry)
 
 	}
+	addFluff(&radar)
 	return &radar
 
 }
-func makeTimeLineEntry(k string, i int, max int) []types.TimelineEntry {
+
+func addFluff(t *types.TechRadar) {
+	t.Quadrants=append(t.Quadrants,types.Quadrant{ID: "Data Storage", Name: "Data Storage"},
+									types.Quadrant{ID: "Methodology", Name: "Methodology"},
+									types.Quadrant{ID: "Release Cadence", Name: "Release Cadence"})
+	// Data Storage
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: LowUse, Date: time.Now()}}, ID: "MongoDB", Key: "MongoDB", Title: "MongoDB", URL:"#", Description: "MongoDB", Quadrant: "Data Storage"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: MediumUse, Date: time.Now()}}, ID: "Kafka", Key: "Kafka", Title: "Kafka", URL:"#", Description: "Kafka", Quadrant: "Data Storage"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: MediumUse, Date: time.Now()}}, ID: "Cassandra", Key: "Cassandra", Title: "Cassandra", URL:"#", Description: "Cassandra", Quadrant: "Data Storage"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: HighUse, Date: time.Now()}}, ID: "Postgres", Key: "Postgres", Title: "Postgres", URL:"#", Description: "Postgres", Quadrant: "Data Storage"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: LowUse, Date: time.Now()}}, ID: "Oracle", Key: "Oracle", Title: "Oracle", URL:"#", Description: "Oracle", Quadrant: "Data Storage"})
+	// Methodology
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: HighUse, Date: time.Now()}}, ID: "Scrum", Key: "Scrum", Title: "Scrum", URL:"#", Description: "Scrum", Quadrant: "Methodology"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: MediumUse, Date: time.Now()}}, ID: "Waterfall", Key: "Waterfall", Title: "Waterfall", URL:"#", Description: "Waterfall", Quadrant: "Methodology"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: LowUse, Date: time.Now()}}, ID: "Wing-it", Key: "Wing-it", Title: "Wing-it", URL:"#", Description: "Wing-it", Quadrant: "Methodology"})
+	// Release Cadence
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: MediumUse, Date: time.Now()}}, ID: "Bi-Weekly", Key: "Bi-Weekly", Title: "Bi-Weekly", URL:"#", Description: "Bi-Weekly", Quadrant: "Release Cadence"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: HighUse, Date: time.Now()}}, ID: "Quarterly", Key: "Quarterly", Title: "Quarterly", URL:"#", Description: "Quarterly", Quadrant: "Release Cadence"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: LowUse, Date: time.Now()}}, ID: "Constant", Key: "Constant", Title: "Constant", URL:"#", Description: "Constant", Quadrant: "Release Cadence"})
+	t.Entries = append(t.Entries, types.Entry{Timeline: []types.TimelineEntry{{RingID: LowUse, Date: time.Now()}}, ID: "Annual", Key: "Annual", Title: "Annual", URL:"#", Description: "Annual", Quadrant: "Release Cadence"})
+}
+
+
+func makeTimeLineEntry(k string, actual float32, percentile float32) []types.TimelineEntry {
 	tl:=[]types.TimelineEntry{}
 	ring:= HighUse // default to high
-	percentile:=float32(i/max)
-	if percentile < .5 && percentile >= .25 {
+
+	if actual/percentile < .5 && actual/percentile >= .10 {
 		ring=MediumUse
-	} else if percentile < .25 {
+	} else if actual/percentile < .10 {
 		ring= LowUse
 	}
 	tl = append(tl, types.TimelineEntry{RingID: ring, Date: time.Now()})
