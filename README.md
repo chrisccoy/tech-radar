@@ -1,48 +1,32 @@
-# Go app template build environment
-[![Build Status](https://travis-ci.org/thockin/go-build-template.svg?branch=master)](https://travis-ci.org/thockin/go-build-template) 
+# Tech Radar
 
-This is a skeleton project for a Go application, which captures the best build
-techniques I have learned to date.  It uses a Makefile to drive the build (the
-universal API to software projects) and a Dockerfile to build a docker image.
+This is a sample project for how one might generate a dataset to be used by the Backstage tech radar [plugin](https://github.com/backstage/backstage/tree/master/plugins/tech-radar).
+The Tech Radar expects a JSON object matching the TechRadar type defined [here](pkg/types/types.go)
 
-This has only been tested on Linux, and depends on Docker to build.
+This project is just a sample for demponstration purposes. There was no effort put into design and scaffolding of this project.
 
-## Customizing it
+##Building
 
-To use this, simply copy these files and make the following changes:
+From the root directory run:
+`make`
 
-Makefile:
-   - change `BINS` to your binary name(s)
-   - replace `cmd/myapp-*` with one directory for each of your `BINS`
-   - change `REGISTRY` to the Docker registry you want to use
-   - maybe change `SRC_DIRS` if you use some other layout
-   - choose a strategy for `VERSION` values - git tags or manual
+## Running
+```
+GITLAB_TOKEN=<your git lab token> GITLAB_URL=<gitlab instance> bin/darwin_amd64/languages
+```
+This will generate a json file that can be pushed to s3
 
-Dockerfile.in:
-   - maybe change or remove the `USER` if you need
+## s3
+The Tech Radar defined [here](https://git.ecd.axway.org/jdavanne/backstage/-/blob/master/packages/app/src/lib/AxwayTechClient.ts) is implemented to acess an s3 bucket for rendering. The Client code simply fetches the object over https, 
+so we need to make sure the object is present prior to rendering the page.
 
-## Go Modules
+This assumes that you have the aws cli installed and have properly authenticated using aws-vault.
 
-This assumes the use of go modules (which will be the default for all Go builds
-as of Go 1.13) and vendoring (which reasonable minds might disagree about).
-You will need to run `go mod vendor` to create a `vendor` directory when you
-have dependencies.
+**s3create.sh** shows a simple creation of an s3 bucket
 
-## Building
+**s3push.sh** will upload the json object to the bucket and set the acl's allowing for public read access
 
-Run `make` or `make build` to compile your app.  This will use a Docker image
-to build your app, with the current directory volume-mounted into place.  This
-will store incremental state for the fastest possible build.  Run `make
-all-build` to build for all architectures.
 
-Run `make container` to build the container image.  It will calculate the image
-tag based on the most recent git tag, and whether the repo is "dirty" since
-that tag (see `make version`).  Run `make all-container` to build containers
-for all supported architectures.
 
-Run `make push` to push the container image to `REGISTRY`.  Run `make all-push`
-to push the container images for all architectures.
 
-Run `make clean` to clean up.
 
-Run `make help` to get a list of available targets.
