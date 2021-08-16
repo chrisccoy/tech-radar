@@ -3,9 +3,10 @@
 This is a sample project for how one might generate a dataset to be used by the Backstage tech radar [plugin](https://github.com/backstage/backstage/tree/master/plugins/tech-radar).
 The Tech Radar expects a JSON object matching the TechRadar type defined [here](pkg/types/types.go)
 
-This project is just a sample for demponstration purposes. There was no effort put into design and scaffolding of this project.
 
-##Building
+This project is just a sample for demonstration purposes. There was no effort put into design and scaffolding of this project.
+
+## Building
 
 From the root directory run:
 `make`
@@ -14,7 +15,7 @@ From the root directory run:
 ```
 GITLAB_TOKEN=<your git lab token> GITLAB_URL=<gitlab instance> bin/darwin_amd64/languages
 ```
-This will generate a json file that can be pushed to s3
+This command will crawl through a gitlab instance and collect software language information across projects. Once complete a json file is produced that can be pushed to s3 for use by the Tech Radar component in our Backstage application.
 
 ## s3
 The Tech Radar defined [here](https://git.ecd.axway.org/jdavanne/backstage/-/blob/master/packages/app/src/lib/AxwayTechClient.ts) is implemented to acess an s3 bucket for rendering. The Client code simply fetches the object over https, 
