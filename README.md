@@ -25,7 +25,7 @@ This assumes that you have the aws cli installed and have properly authenticated
 
 **s3create.sh** shows a simple creation of an s3 bucket
 
-**s3push.sh** will upload the json object to the bucket and set the acl's allowing for public read access
+**s3push.sh** will upload the json object to the bucket and set the ACL's allowing for public read access
 
 
 
