@@ -13,7 +13,8 @@ From the root directory run:
 
 ## Running
 ```
-GITLAB_TOKEN=<your git lab token> GITLAB_URL=<gitlab instance> bin/darwin_amd64/languages
+GITLAB_TOKEN=<your git lab token> GITLAB_URL=<gitlab instance> bin/<OS-Type>/languages
+# Make will build an binary based on your OS - running:  find ./bin -name 'languages' should show the location for the binary on your machine
 ```
 This command will crawl through a gitlab instance and collect software language information across projects. Once complete a json file is produced that can be pushed to s3 for use by the Tech Radar component in our Backstage application.
 
