@@ -1,101 +1,98 @@
-﻿name ,ring,quadrant,isNew,description
-APL,Current,Languages,FALSE,<p>APL</p>
-Bash/Shell,Current,Languages,FALSE,<p>APL</p>
-C,Current,Languages,FALSE,<p>APL</p>
-C#,Current,Languages,FALSE,<p>APL</p>
-C++,Current,Languages,FALSE,<p>APL</p>
-Clojure,Current,Languages,FALSE,<p>APL</p>
-Crystal,Current,Languages,FALSE,<p>APL</p>
-Dart,Current,Languages,FALSE,<p>APL</p>
-Delphi,Current,Languages,FALSE,<p>APL</p>
-Elixir,Current,Languages,FALSE,<p>APL</p>
-Erlang,Current,Languages,FALSE,<p>APL</p>
-F#,Current,Languages,FALSE,<p>APL</p>
-Fortran,Current,Languages,FALSE,<p>APL</p>
-Go,Current,Languages,FALSE,<p>APL</p>
-Groovy,Current,Languages,FALSE,<p>APL</p>
-Haskell,Current,Languages,FALSE,<p>APL</p>
-HTML/CSS,Current,Languages,FALSE,<p>APL</p>
-Java,Current,Languages,FALSE,<p>APL</p>
-COBOL,Current,Languages,FALSE,<p>APL</p>
-PHP,Current,Languages,FALSE,<p>APL</p>
-JavaScript,Current,Languages,FALSE,<p>APL</p>
-Julia,Current,Languages,FALSE,<p>APL</p>
-Kotlin,Current,Languages,FALSE,<p>APL</p>
-LISP,Current,Languages,FALSE,<p>APL</p>
-LUA,Current,Languages,FALSE,<p>APL</p>
-MATLAB,Current,Languages,FALSE,<p>APL</p>
-OCaml,Current,Languages,FALSE,<p>APL</p>
-Objective-C,Current,Languages,FALSE,<p>APL</p>
-Perl,Current,Languages,FALSE,<p>APL</p>
-PHP2,Current,Languages,FALSE,<p>APL</p>
-Poweshell,Current,Languages,FALSE,<p>APL</p>
-Python,Current,Languages,FALSE,<p>APL</p>
-R,Current,Languages,FALSE,<p>APL</p>
-Ruby,Current,Languages,FALSE,<p>APL</p>
-Rust,Current,Languages,FALSE,<p>APL</p>
-SAS,Current,Languages,FALSE,<p>APL</p>
-Scala,Current,Languages,FALSE,<p>APL</p>
-Solidity,Current,Languages,FALSE,<p>APL</p>
-SQL,Current,Languages,FALSE,<p>APL</p>
-TypeScript,Current,Languages,FALSE,<p>APL</p>
-Cassandra,Emerging,Database,FALSE,<p>APL</p>
-Couchbase,Emerging,Database,FALSE,<p>APL</p>
-CouchDB,Emerging,Database,FALSE,<p>APL</p>
-Cloud Firestore,Emerging,Database,FALSE,<p>APL</p>
-DynamoDB,Emerging,Database,FALSE,<p>APL</p>
-Elasticsearch,Emerging,Database,FALSE,<p>APL</p>
-IBM DB2,Emerging,Database,FALSE,<p>APL</p>
-MariaDB,Emerging,Database,FALSE,<p>APL</p>
-Microsoft SQL Server,Emerging,Database,FALSE,<p>APL</p>
-MongoDB,Emerging,Database,FALSE,<p>APL</p>
-MySQL,Emerging,Database,FALSE,<p>APL</p>
-Neo4j,Emerging,Database,FALSE,<p>APL</p>
-Oracle,Emerging,Database,FALSE,<p>APL</p>
-PostgreSQL,Emerging,Database,FALSE,<p>APL</p>
-Firebase Realtime Database,Emerging,Database,FALSE,<p>APL</p>
-Redis,Emerging,Database,FALSE,<p>APL</p>
-SQLite,Emerging,Database,FALSE,<p>APL</p>
-Hazelcast,Emerging,Database,FALSE,<p>APL</p>
-Oracle Coherence,Emerging,Database,FALSE,<p>APL</p>
-Apache Ignite,Emerging,Database,FALSE,<p>APL</p>
-Angular,Declining,Web Framework,FALSE,<p>APL</p>
-ASP,Declining,Web Framework,FALSE,<p>APL</p>
-Blazor,Declining,Web Framework,FALSE,<p>APL</p>
-Dojo,Declining,Web Framework,FALSE,<p>APL</p>
-Django,Declining,Web Framework,FALSE,<p>APL</p>
-Drupal,Declining,Web Framework,FALSE,<p>APL</p>
-Express,Declining,Web Framework,FALSE,<p>APL</p>
-Feathers.js,Declining,Web Framework,FALSE,<p>APL</p>
-Fastify,Declining,Web Framework,FALSE,<p>APL</p>
-Flask,Declining,Web Framework,FALSE,<p>APL</p>
-Gatsby,Declining,Web Framework,FALSE,<p>APL</p>
-JQuery,Declining,Web Framework,FALSE,<p>APL</p>
-Laravel,Declining,Web Framework,FALSE,<p>APL</p>
-Next.js,Declining,Web Framework,FALSE,<p>APL</p>
-Node.js,Declining,Web Framework,FALSE,<p>APL</p>
-Nuxt.js,Declining,Web Framework,FALSE,<p>APL</p>
-Play,Declining,Web Framework,FALSE,<p>APL</p>
-React,Declining,Web Framework,FALSE,<p>APL</p>
-Ruby on Rails,Declining,Web Framework,FALSE,<p>APL</p>
-Vue.js,Declining,Web Framework,FALSE,<p>APL</p>
-.NET,Dead,Other Framework,FALSE,<p>APL</p>
-Apache Kafka,Dead,Other Framework,FALSE,<p>APL</p>
-Apache Spark,Dead,Other Framework,FALSE,<p>APL</p>
-Capacitor,Dead,Other Framework,FALSE,<p>APL</p>
-Cordova,Dead,Other Framework,FALSE,<p>APL</p>
-Electron,Dead,Other Framework,FALSE,<p>APL</p>
-Flutter,Dead,Other Framework,FALSE,<p>APL</p>
-GTK,Dead,Other Framework,FALSE,<p>APL</p>
-Hadoop,Dead,Other Framework,FALSE,<p>APL</p>
-Ionic,Dead,Other Framework,FALSE,<p>APL</p>
-Keras,Dead,Other Framework,FALSE,<p>APL</p>
-Pandas,Dead,Other Framework,FALSE,<p>APL</p>
-Qt,Dead,Other Framework,FALSE,<p>APL</p>
-React Native,Dead,Other Framework,FALSE,<p>APL</p>
-Scikit-learn,Dead,Other Framework,FALSE,<p>APL</p>
-Spring,Dead,Other Framework,FALSE,<p>APL</p>
-TensorFlow,Dead,Other Framework,FALSE,<p>APL</p>
-Torch/PyTorch,Dead,Other Framework,FALSE,<p>APL</p>
-Hugging Face Transformers,Dead,Other Framework,FALSE,<p>APL</p>
-Xamarin,Dead,Other Framework,FALSE,<p>APL</p>
+﻿name,ring,quadrant,isNew,description
+Oracle,HIGH,DATABASE,FALSE,<p>Oracle</p>
+TensorFlow,MID,OTHER FRAMEWORKS,FALSE,<p>TensorFlow</p>
+ASP,LOW,WEB FRAMEWORKS,FALSE,<p>ASP</p>
+LISP,LOW,LANGUAGE,FALSE,<p>LISP</p>
+Neo4j,LOW,DATABASE,FALSE,<p>Neo4j</p>
+Couchbase,LOW,DATABASE,FALSE,<p>Couchbase</p>
+Blazor,UNUSED,WEB FRAMEWORKS,FALSE,<p>Blazor</p>
+Hazelcast,MID,DATABASE,FALSE,<p>Hazelcast</p>
+Delphi,LOW,LANGUAGE,FALSE,<p>Delphi</p>
+React,HIGH,WEB FRAMEWORKS,FALSE,<p>React</p>
+SQLite,LOW,DATABASE,FALSE,<p>SQLite</p>
+Dart,UNUSED,LANGUAGE,FALSE,<p>Dart</p>
+Groovy,HIGH,LANGUAGE,FALSE,<p>Groovy</p>
+Drupal,UNUSED,WEB FRAMEWORKS,FALSE,<p>Drupal</p>
+Apache Spark,MID,OTHER FRAMEWORKS,FALSE,<p>Apache Spark</p>
+Ruby,LOW,LANGUAGE,FALSE,<p>Ruby</p>
+Fortran,UNUSED,LANGUAGE,FALSE,<p>Fortran</p>
+Torch/PyTorch,LOW,OTHER FRAMEWORKS,FALSE,<p>Torch/PyTorch</p>
+Ionic,LOW,OTHER FRAMEWORKS,FALSE,<p>Ionic</p>
+F#,LOW,LANGUAGE,FALSE,<p>F#</p>
+CouchDB,LOW,DATABASE,FALSE,<p>CouchDB</p>
+Solidity,LOW,LANGUAGE,FALSE,<p>Solidity</p>
+Oracle Coherence,UNUSED,DATABASE,FALSE,<p>Oracle Coherence</p>
+Julia,UNUSED,LANGUAGE,FALSE,<p>Julia</p>
+APL,UNUSED,LANGUAGE,FALSE,<p>APL</p>
+DynamoDB,LOW,DATABASE,FALSE,<p>DynamoDB</p>
+Rust,HIGH,LANGUAGE,FALSE,<p>Rust</p>
+Firebase Realtime Database,LOW,DATABASE,FALSE,<p>Firebase Realtime Database</p>
+MariaDB,HIGH,DATABASE,FALSE,<p>MariaDB</p>
+TypeScript,HIGH,LANGUAGE,FALSE,<p>TypeScript</p>
+Clojure,LOW,LANGUAGE,FALSE,<p>Clojure</p>
+Laravel,LOW,WEB FRAMEWORKS,FALSE,<p>Laravel</p>
+Ruby on Rails,LOW,WEB FRAMEWORKS,FALSE,<p>Ruby on Rails</p>
+JavaScript,HIGH,LANGUAGE,FALSE,<p>JavaScript</p>
+Go,HIGH,LANGUAGE,FALSE,<p>Go</p>
+Cloud Firestore,LOW,DATABASE,FALSE,<p>Cloud Firestore</p>
+Bash/Shell,HIGH,LANGUAGE,FALSE,<p>Bash/Shell</p>
+Objective-C,LOW,LANGUAGE,FALSE,<p>Objective-C</p>
+OCaml,LOW,LANGUAGE,FALSE,<p>OCaml</p>
+Microsoft SQL Server,MID,DATABASE,FALSE,<p>Microsoft SQL Server</p>
+MATLAB,LOW,LANGUAGE,FALSE,<p>MATLAB</p>
+Qt,LOW,OTHER FRAMEWORKS,FALSE,<p>Qt</p>
+GTK,UNUSED,OTHER FRAMEWORKS,FALSE,<p>GTK</p>
+Apache Kafka,HIGH,OTHER FRAMEWORKS,FALSE,<p>Apache Kafka</p>
+.NET,MID,OTHER FRAMEWORKS,FALSE,<p>.NET</p>
+Play,LOW,WEB FRAMEWORKS,FALSE,<p>Play</p>
+Spring,HIGH,OTHER FRAMEWORKS,FALSE,<p>Spring</p>
+Feathers.js,LOW,WEB FRAMEWORKS,FALSE,<p>Feathers.js</p>
+Capacitor,LOW,OTHER FRAMEWORKS,FALSE,<p>Capacitor</p>
+PostgreSQL,HIGH,DATABASE,FALSE,<p>PostgreSQL</p>
+LUA,LOW,LANGUAGE,FALSE,<p>LUA</p>
+Haskell,LOW,LANGUAGE,FALSE,<p>Haskell</p>
+Hugging Face Transformers,UNUSED,OTHER FRAMEWORKS,FALSE,<p>Hugging Face Transformers</p>
+Django,LOW,WEB FRAMEWORKS,FALSE,<p>Django</p>
+SQL,HIGH,LANGUAGE,FALSE,<p>SQL</p>
+Poweshell,LOW,LANGUAGE,FALSE,<p>Poweshell</p>
+HTML/CSS,HIGH,LANGUAGE,FALSE,<p>HTML/CSS</p>
+MongoDB,HIGH,DATABASE,FALSE,<p>MongoDB</p>
+Next.js,LOW,WEB FRAMEWORKS,FALSE,<p>Next.js</p>
+Scikit-learn,UNUSED,OTHER FRAMEWORKS,FALSE,<p>Scikit-learn</p>
+Angular,HIGH,WEB FRAMEWORKS,FALSE,<p>Angular</p>
+C#,MID,LANGUAGE,FALSE,<p>C#</p>
+Perl,LOW,LANGUAGE,FALSE,<p>Perl</p>
+COBOL,UNUSED,LANGUAGE,FALSE,<p>COBOL</p>
+IBM DB2,LOW,DATABASE,FALSE,<p>IBM DB2</p>
+MySQL,HIGH,DATABASE,FALSE,<p>MySQL</p>
+Express,MID,WEB FRAMEWORKS,FALSE,<p>Express</p>
+Flutter,LOW,OTHER FRAMEWORKS,FALSE,<p>Flutter</p>
+Dojo,LOW,WEB FRAMEWORKS,FALSE,<p>Dojo</p>
+Elixir,LOW,LANGUAGE,FALSE,<p>Elixir</p>
+PHP2,MID,LANGUAGE,FALSE,<p>PHP2</p>
+Node.js,HIGH,WEB FRAMEWORKS,FALSE,<p>Node.js</p>
+Keras,LOW,OTHER FRAMEWORKS,FALSE,<p>Keras</p>
+JQuery,MID,WEB FRAMEWORKS,FALSE,<p>JQuery</p>
+Pandas,LOW,OTHER FRAMEWORKS,FALSE,<p>Pandas</p>
+Flask,LOW,WEB FRAMEWORKS,FALSE,<p>Flask</p>
+React Native,MID,OTHER FRAMEWORKS,FALSE,<p>React Native</p>
+C++,MID,LANGUAGE,FALSE,<p>C++</p>
+R,LOW,LANGUAGE,FALSE,<p>R</p>
+Hadoop,MID,OTHER FRAMEWORKS,FALSE,<p>Hadoop</p>
+Fastify,LOW,WEB FRAMEWORKS,FALSE,<p>Fastify</p>
+Crystal,UNUSED,LANGUAGE,FALSE,<p>Crystal</p>
+SAS,LOW,LANGUAGE,FALSE,<p>SAS</p>
+Redis,MID,DATABASE,FALSE,<p>Redis</p>
+Gatsby,LOW,WEB FRAMEWORKS,FALSE,<p>Gatsby</p>
+Kotlin,MID,LANGUAGE,FALSE,<p>Kotlin</p>
+Elasticsearch,HIGH,DATABASE,FALSE,<p>Elasticsearch</p>
+Nuxt.js,LOW,WEB FRAMEWORKS,FALSE,<p>Nuxt.js</p>
+Cordova,LOW,OTHER FRAMEWORKS,FALSE,<p>Cordova</p>
+Scala,LOW,LANGUAGE,FALSE,<p>Scala</p>
+PHP,UNUSED,LANGUAGE,FALSE,<p>PHP</p>
+Erlang,LOW,LANGUAGE,FALSE,<p>Erlang</p>
+Python,HIGH,LANGUAGE,FALSE,<p>Python</p>
+Java,HIGH,LANGUAGE,FALSE,<p>Java</p>
+Cassandra,HIGH,DATABASE,FALSE,<p>Cassandra</p>
+Electron,LOW,OTHER FRAMEWORKS,FALSE,<p>Electron</p>
+C,MID,LANGUAGE,FALSE,<p>C</p>
