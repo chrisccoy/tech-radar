@@ -1586,6 +1586,12 @@
             "id": "LOW",
             "name": "LOW",
             "color": "#fbdb84"
+        },
+        {
+            "id": "UNUSED",
+            "name": "UNUSED",
+            "color": "#ff0000"
         }
+
     ]
 }
