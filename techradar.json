@@ -4,664 +4,8 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812929-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Oracle",
-            "id": "Oracle",
-            "title": "Oracle",
-            "quadrant": "DATABASE",
-            "description": "Oracle"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812931-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "TensorFlow",
-            "id": "TensorFlow",
-            "title": "TensorFlow",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "TensorFlow"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812936-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "ASP",
-            "id": "ASP",
-            "title": "ASP",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "ASP"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812942-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "LISP",
-            "id": "LISP",
-            "title": "LISP",
-            "quadrant": "LANGUAGE",
-            "description": "LISP"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812942-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Neo4j",
-            "id": "Neo4j",
-            "title": "Neo4j",
-            "quadrant": "DATABASE",
-            "description": "Neo4j"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812948-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Couchbase",
-            "id": "Couchbase",
-            "title": "Couchbase",
-            "quadrant": "DATABASE",
-            "description": "Couchbase"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812948-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Blazor",
-            "id": "Blazor",
-            "title": "Blazor",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Blazor"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812948-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Hazelcast",
-            "id": "Hazelcast",
-            "title": "Hazelcast",
-            "quadrant": "DATABASE",
-            "description": "Hazelcast"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812948-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Delphi",
-            "id": "Delphi",
-            "title": "Delphi",
-            "quadrant": "LANGUAGE",
-            "description": "Delphi"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812955-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "React",
-            "id": "React",
-            "title": "React",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "React"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812955-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "SQLite",
-            "id": "SQLite",
-            "title": "SQLite",
-            "quadrant": "DATABASE",
-            "description": "SQLite"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812955-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Dart",
-            "id": "Dart",
-            "title": "Dart",
-            "quadrant": "LANGUAGE",
-            "description": "Dart"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812955-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Groovy",
-            "id": "Groovy",
-            "title": "Groovy",
-            "quadrant": "LANGUAGE",
-            "description": "Groovy"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812956-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Drupal",
-            "id": "Drupal",
-            "title": "Drupal",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Drupal"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812956-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Apache Spark",
-            "id": "Apache Spark",
-            "title": "Apache Spark",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Apache Spark"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812957-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Ruby",
-            "id": "Ruby",
-            "title": "Ruby",
-            "quadrant": "LANGUAGE",
-            "description": "Ruby"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812957-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Fortran",
-            "id": "Fortran",
-            "title": "Fortran",
-            "quadrant": "LANGUAGE",
-            "description": "Fortran"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812957-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Torch/PyTorch",
-            "id": "Torch/PyTorch",
-            "title": "Torch/PyTorch",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Torch/PyTorch"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812963-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Ionic",
-            "id": "Ionic",
-            "title": "Ionic",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Ionic"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812964-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "F#",
-            "id": "F#",
-            "title": "F#",
-            "quadrant": "LANGUAGE",
-            "description": "F#"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812964-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "CouchDB",
-            "id": "CouchDB",
-            "title": "CouchDB",
-            "quadrant": "DATABASE",
-            "description": "CouchDB"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812964-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Solidity",
-            "id": "Solidity",
-            "title": "Solidity",
-            "quadrant": "LANGUAGE",
-            "description": "Solidity"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812965-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Oracle Coherence",
-            "id": "Oracle Coherence",
-            "title": "Oracle Coherence",
-            "quadrant": "DATABASE",
-            "description": "Oracle Coherence"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812965-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Julia",
-            "id": "Julia",
-            "title": "Julia",
-            "quadrant": "LANGUAGE",
-            "description": "Julia"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812965-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "APL",
-            "id": "APL",
-            "title": "APL",
-            "quadrant": "LANGUAGE",
-            "description": "APL"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812965-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "DynamoDB",
-            "id": "DynamoDB",
-            "title": "DynamoDB",
-            "quadrant": "DATABASE",
-            "description": "DynamoDB"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812966-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Rust",
-            "id": "Rust",
-            "title": "Rust",
-            "quadrant": "LANGUAGE",
-            "description": "Rust"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812966-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Firebase Realtime Database",
-            "id": "Firebase Realtime Database",
-            "title": "Firebase Realtime Database",
-            "quadrant": "DATABASE",
-            "description": "Firebase Realtime Database"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812966-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "MariaDB",
-            "id": "MariaDB",
-            "title": "MariaDB",
-            "quadrant": "DATABASE",
-            "description": "MariaDB"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812966-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "TypeScript",
-            "id": "TypeScript",
-            "title": "TypeScript",
-            "quadrant": "LANGUAGE",
-            "description": "TypeScript"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812966-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Clojure",
-            "id": "Clojure",
-            "title": "Clojure",
-            "quadrant": "LANGUAGE",
-            "description": "Clojure"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812967-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Laravel",
-            "id": "Laravel",
-            "title": "Laravel",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Laravel"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812967-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Ruby on Rails",
-            "id": "Ruby on Rails",
-            "title": "Ruby on Rails",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Ruby on Rails"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812968-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "JavaScript",
-            "id": "JavaScript",
-            "title": "JavaScript",
-            "quadrant": "LANGUAGE",
-            "description": "JavaScript"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812968-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Go",
-            "id": "Go",
-            "title": "Go",
-            "quadrant": "LANGUAGE",
-            "description": "Go"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.81298-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Cloud Firestore",
-            "id": "Cloud Firestore",
-            "title": "Cloud Firestore",
-            "quadrant": "DATABASE",
-            "description": "Cloud Firestore"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.81298-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Bash/Shell",
-            "id": "Bash/Shell",
-            "title": "Bash/Shell",
-            "quadrant": "LANGUAGE",
-            "description": "Bash/Shell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.81298-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Objective-C",
-            "id": "Objective-C",
-            "title": "Objective-C",
-            "quadrant": "LANGUAGE",
-            "description": "Objective-C"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812981-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "OCaml",
-            "id": "OCaml",
-            "title": "OCaml",
-            "quadrant": "LANGUAGE",
-            "description": "OCaml"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812981-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Microsoft SQL Server",
-            "id": "Microsoft SQL Server",
-            "title": "Microsoft SQL Server",
-            "quadrant": "DATABASE",
-            "description": "Microsoft SQL Server"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812981-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "MATLAB",
-            "id": "MATLAB",
-            "title": "MATLAB",
-            "quadrant": "LANGUAGE",
-            "description": "MATLAB"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812981-07:00",
+                    "date": "2023-01-30T20:02:10.26212-07:00",
                     "description": ""
                 }
             ],
@@ -676,232 +20,8 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812981-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "GTK",
-            "id": "GTK",
-            "title": "GTK",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "GTK"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812982-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Apache Kafka",
-            "id": "Apache Kafka",
-            "title": "Apache Kafka",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Apache Kafka"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812982-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": ".NET",
-            "id": ".NET",
-            "title": ".NET",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": ".NET"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812982-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Play",
-            "id": "Play",
-            "title": "Play",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Play"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812982-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Spring",
-            "id": "Spring",
-            "title": "Spring",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Spring"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812983-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Feathers.js",
-            "id": "Feathers.js",
-            "title": "Feathers.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Feathers.js"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812983-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Capacitor",
-            "id": "Capacitor",
-            "title": "Capacitor",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Capacitor"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812984-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "PostgreSQL",
-            "id": "PostgreSQL",
-            "title": "PostgreSQL",
-            "quadrant": "DATABASE",
-            "description": "PostgreSQL"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812984-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "LUA",
-            "id": "LUA",
-            "title": "LUA",
-            "quadrant": "LANGUAGE",
-            "description": "LUA"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812984-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Haskell",
-            "id": "Haskell",
-            "title": "Haskell",
-            "quadrant": "LANGUAGE",
-            "description": "Haskell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812984-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Hugging Face Transformers",
-            "id": "Hugging Face Transformers",
-            "title": "Hugging Face Transformers",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Hugging Face Transformers"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812984-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Django",
-            "id": "Django",
-            "title": "Django",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Django"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812985-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "SQL",
-            "id": "SQL",
-            "title": "SQL",
-            "quadrant": "LANGUAGE",
-            "description": "SQL"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812985-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Poweshell",
-            "id": "Poweshell",
-            "title": "Poweshell",
-            "quadrant": "LANGUAGE",
-            "description": "Poweshell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812986-07:00",
+                    "date": "2023-01-30T20:02:10.26212-07:00",
                     "description": ""
                 }
             ],
@@ -917,71 +37,87 @@
                 {
                     "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812992-07:00",
+                    "date": "2023-01-30T20:02:10.262124-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "MongoDB",
-            "id": "MongoDB",
-            "title": "MongoDB",
+            "key": "PostgreSQL",
+            "id": "PostgreSQL",
+            "title": "PostgreSQL",
             "quadrant": "DATABASE",
-            "description": "MongoDB"
+            "description": "PostgreSQL"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812992-07:00",
+                    "date": "2023-01-30T20:02:10.262127-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Next.js",
-            "id": "Next.js",
-            "title": "Next.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Next.js"
+            "key": "Ionic",
+            "id": "Ionic",
+            "title": "Ionic",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Ionic"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812992-07:00",
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262127-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Scikit-learn",
-            "id": "Scikit-learn",
-            "title": "Scikit-learn",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Scikit-learn"
+            "key": "Objective-C",
+            "id": "Objective-C",
+            "title": "Objective-C",
+            "quadrant": "LANGUAGE",
+            "description": "Objective-C"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812992-07:00",
+                    "date": "2023-01-30T20:02:10.26213-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Angular",
-            "id": "Angular",
-            "title": "Angular",
+            "key": "JavaScript",
+            "id": "JavaScript",
+            "title": "JavaScript",
+            "quadrant": "LANGUAGE",
+            "description": "JavaScript"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262133-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Ruby on Rails",
+            "id": "Ruby on Rails",
+            "title": "Ruby on Rails",
             "quadrant": "WEB FRAMEWORKS",
-            "description": "Angular"
+            "description": "Ruby on Rails"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812993-07:00",
+                    "date": "2023-01-30T20:02:10.262133-07:00",
                     "description": ""
                 }
             ],
@@ -996,40 +132,88 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812993-07:00",
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262133-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Perl",
-            "id": "Perl",
-            "title": "Perl",
-            "quadrant": "LANGUAGE",
-            "description": "Perl"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.812993-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "COBOL",
-            "id": "COBOL",
-            "title": "COBOL",
-            "quadrant": "LANGUAGE",
-            "description": "COBOL"
+            "key": "Spring",
+            "id": "Spring",
+            "title": "Spring",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Spring"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812993-07:00",
+                    "date": "2023-01-30T20:02:10.262136-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "SAS",
+            "id": "SAS",
+            "title": "SAS",
+            "quadrant": "LANGUAGE",
+            "description": "SAS"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262137-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "MariaDB",
+            "id": "MariaDB",
+            "title": "MariaDB",
+            "quadrant": "DATABASE",
+            "description": "MariaDB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262138-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "React",
+            "id": "React",
+            "title": "React",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "React"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262139-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Solidity",
+            "id": "Solidity",
+            "title": "Solidity",
+            "quadrant": "LANGUAGE",
+            "description": "Solidity"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262139-07:00",
                     "description": ""
                 }
             ],
@@ -1044,24 +228,72 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.812994-07:00",
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262139-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "MySQL",
-            "id": "MySQL",
-            "title": "MySQL",
-            "quadrant": "DATABASE",
-            "description": "MySQL"
+            "key": "Drupal",
+            "id": "Drupal",
+            "title": "Drupal",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Drupal"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.812994-07:00",
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262139-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Laravel",
+            "id": "Laravel",
+            "title": "Laravel",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Laravel"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.26214-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Go",
+            "id": "Go",
+            "title": "Go",
+            "quadrant": "LANGUAGE",
+            "description": "Go"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.26214-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "SQLite",
+            "id": "SQLite",
+            "title": "SQLite",
+            "quadrant": "DATABASE",
+            "description": "SQLite"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262143-07:00",
                     "description": ""
                 }
             ],
@@ -1076,152 +308,40 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812994-07:00",
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262144-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Flutter",
-            "id": "Flutter",
-            "title": "Flutter",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Flutter"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.812994-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Dojo",
-            "id": "Dojo",
-            "title": "Dojo",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Dojo"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.81301-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Elixir",
-            "id": "Elixir",
-            "title": "Elixir",
+            "key": "C",
+            "id": "C",
+            "title": "C",
             "quadrant": "LANGUAGE",
-            "description": "Elixir"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.81301-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "PHP2",
-            "id": "PHP2",
-            "title": "PHP2",
-            "quadrant": "LANGUAGE",
-            "description": "PHP2"
+            "description": "C"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.81301-07:00",
+                    "date": "2023-01-30T20:02:10.262144-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Node.js",
-            "id": "Node.js",
-            "title": "Node.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Node.js"
+            "key": "Oracle",
+            "id": "Oracle",
+            "title": "Oracle",
+            "quadrant": "DATABASE",
+            "description": "Oracle"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.81301-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Keras",
-            "id": "Keras",
-            "title": "Keras",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Keras"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813011-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "JQuery",
-            "id": "JQuery",
-            "title": "JQuery",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "JQuery"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813011-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Pandas",
-            "id": "Pandas",
-            "title": "Pandas",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Pandas"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813011-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Flask",
-            "id": "Flask",
-            "title": "Flask",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Flask"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813011-07:00",
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262144-07:00",
                     "description": ""
                 }
             ],
@@ -1237,39 +357,7 @@
                 {
                     "moved": 0,
                     "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813011-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "C++",
-            "id": "C++",
-            "title": "C++",
-            "quadrant": "LANGUAGE",
-            "description": "C++"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813012-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "R",
-            "id": "R",
-            "title": "R",
-            "quadrant": "LANGUAGE",
-            "description": "R"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813012-07:00",
+                    "date": "2023-01-30T20:02:10.262145-07:00",
                     "description": ""
                 }
             ],
@@ -1285,119 +373,119 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813012-07:00",
+                    "date": "2023-01-30T20:02:10.262145-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Fastify",
-            "id": "Fastify",
-            "title": "Fastify",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Fastify"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.813012-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Crystal",
-            "id": "Crystal",
-            "title": "Crystal",
+            "key": "Haskell",
+            "id": "Haskell",
+            "title": "Haskell",
             "quadrant": "LANGUAGE",
-            "description": "Crystal"
+            "description": "Haskell"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813012-07:00",
+                    "date": "2023-01-30T20:02:10.262145-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "SAS",
-            "id": "SAS",
-            "title": "SAS",
-            "quadrant": "LANGUAGE",
-            "description": "SAS"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813013-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Redis",
-            "id": "Redis",
-            "title": "Redis",
-            "quadrant": "DATABASE",
-            "description": "Redis"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813013-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Gatsby",
-            "id": "Gatsby",
-            "title": "Gatsby",
+            "key": "Flask",
+            "id": "Flask",
+            "title": "Flask",
             "quadrant": "WEB FRAMEWORKS",
-            "description": "Gatsby"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813013-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Kotlin",
-            "id": "Kotlin",
-            "title": "Kotlin",
-            "quadrant": "LANGUAGE",
-            "description": "Kotlin"
+            "description": "Flask"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.813013-07:00",
+                    "date": "2023-01-30T20:02:10.262145-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Elasticsearch",
-            "id": "Elasticsearch",
-            "title": "Elasticsearch",
-            "quadrant": "DATABASE",
-            "description": "Elasticsearch"
+            "key": "Bash/Shell",
+            "id": "Bash/Shell",
+            "title": "Bash/Shell",
+            "quadrant": "LANGUAGE",
+            "description": "Bash/Shell"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813013-07:00",
+                    "date": "2023-01-30T20:02:10.262146-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Feathers.js",
+            "id": "Feathers.js",
+            "title": "Feathers.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Feathers.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262146-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Next.js",
+            "id": "Next.js",
+            "title": "Next.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Next.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262146-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "TypeScript",
+            "id": "TypeScript",
+            "title": "TypeScript",
+            "quadrant": "LANGUAGE",
+            "description": "TypeScript"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262146-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Electron",
+            "id": "Electron",
+            "title": "Electron",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Electron"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262147-07:00",
                     "description": ""
                 }
             ],
@@ -1413,7 +501,647 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
+                    "date": "2023-01-30T20:02:10.262147-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Elixir",
+            "id": "Elixir",
+            "title": "Elixir",
+            "quadrant": "LANGUAGE",
+            "description": "Elixir"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262147-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Gatsby",
+            "id": "Gatsby",
+            "title": "Gatsby",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Gatsby"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262147-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Fortran",
+            "id": "Fortran",
+            "title": "Fortran",
+            "quadrant": "LANGUAGE",
+            "description": "Fortran"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262148-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Clojure",
+            "id": "Clojure",
+            "title": "Clojure",
+            "quadrant": "LANGUAGE",
+            "description": "Clojure"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262154-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Oracle Coherence",
+            "id": "Oracle Coherence",
+            "title": "Oracle Coherence",
+            "quadrant": "DATABASE",
+            "description": "Oracle Coherence"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262155-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "TensorFlow",
+            "id": "TensorFlow",
+            "title": "TensorFlow",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "TensorFlow"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262155-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Play",
+            "id": "Play",
+            "title": "Play",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Play"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262155-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Poweshell",
+            "id": "Poweshell",
+            "title": "Poweshell",
+            "quadrant": "LANGUAGE",
+            "description": "Poweshell"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262156-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Elasticsearch",
+            "id": "Elasticsearch",
+            "title": "Elasticsearch",
+            "quadrant": "DATABASE",
+            "description": "Elasticsearch"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262156-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "DynamoDB",
+            "id": "DynamoDB",
+            "title": "DynamoDB",
+            "quadrant": "DATABASE",
+            "description": "DynamoDB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262156-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "MySQL",
+            "id": "MySQL",
+            "title": "MySQL",
+            "quadrant": "DATABASE",
+            "description": "MySQL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262156-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": ".NET",
+            "id": ".NET",
+            "title": ".NET",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": ".NET"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262157-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "F#",
+            "id": "F#",
+            "title": "F#",
+            "quadrant": "LANGUAGE",
+            "description": "F#"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262157-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Fastify",
+            "id": "Fastify",
+            "title": "Fastify",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Fastify"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262157-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "LISP",
+            "id": "LISP",
+            "title": "LISP",
+            "quadrant": "LANGUAGE",
+            "description": "LISP"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262157-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Keras",
+            "id": "Keras",
+            "title": "Keras",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Keras"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262158-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Apache Spark",
+            "id": "Apache Spark",
+            "title": "Apache Spark",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Apache Spark"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262158-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Julia",
+            "id": "Julia",
+            "title": "Julia",
+            "quadrant": "LANGUAGE",
+            "description": "Julia"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262158-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "COBOL",
+            "id": "COBOL",
+            "title": "COBOL",
+            "quadrant": "LANGUAGE",
+            "description": "COBOL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262158-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Neo4j",
+            "id": "Neo4j",
+            "title": "Neo4j",
+            "quadrant": "DATABASE",
+            "description": "Neo4j"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262159-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Couchbase",
+            "id": "Couchbase",
+            "title": "Couchbase",
+            "quadrant": "DATABASE",
+            "description": "Couchbase"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262159-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Hugging Face Transformers",
+            "id": "Hugging Face Transformers",
+            "title": "Hugging Face Transformers",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Hugging Face Transformers"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262159-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Scala",
+            "id": "Scala",
+            "title": "Scala",
+            "quadrant": "LANGUAGE",
+            "description": "Scala"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.26216-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "MATLAB",
+            "id": "MATLAB",
+            "title": "MATLAB",
+            "quadrant": "LANGUAGE",
+            "description": "MATLAB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.26216-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "LUA",
+            "id": "LUA",
+            "title": "LUA",
+            "quadrant": "LANGUAGE",
+            "description": "LUA"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.26216-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "APL",
+            "id": "APL",
+            "title": "APL",
+            "quadrant": "LANGUAGE",
+            "description": "APL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262162-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Angular",
+            "id": "Angular",
+            "title": "Angular",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Angular"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "MID",
+                    "date": "2023-01-30T20:02:10.262162-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "PHP2",
+            "id": "PHP2",
+            "title": "PHP2",
+            "quadrant": "LANGUAGE",
+            "description": "PHP2"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262162-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "GTK",
+            "id": "GTK",
+            "title": "GTK",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "GTK"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262163-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Delphi",
+            "id": "Delphi",
+            "title": "Delphi",
+            "quadrant": "LANGUAGE",
+            "description": "Delphi"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262163-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Dojo",
+            "id": "Dojo",
+            "title": "Dojo",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Dojo"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262163-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "OCaml",
+            "id": "OCaml",
+            "title": "OCaml",
+            "quadrant": "LANGUAGE",
+            "description": "OCaml"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262163-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Erlang",
+            "id": "Erlang",
+            "title": "Erlang",
+            "quadrant": "LANGUAGE",
+            "description": "Erlang"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262164-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "R",
+            "id": "R",
+            "title": "R",
+            "quadrant": "LANGUAGE",
+            "description": "R"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262164-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Groovy",
+            "id": "Groovy",
+            "title": "Groovy",
+            "quadrant": "LANGUAGE",
+            "description": "Groovy"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262164-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "MongoDB",
+            "id": "MongoDB",
+            "title": "MongoDB",
+            "quadrant": "DATABASE",
+            "description": "MongoDB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262164-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "SQL",
+            "id": "SQL",
+            "title": "SQL",
+            "quadrant": "LANGUAGE",
+            "description": "SQL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262165-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Blazor",
+            "id": "Blazor",
+            "title": "Blazor",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Blazor"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262172-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Ruby",
+            "id": "Ruby",
+            "title": "Ruby",
+            "quadrant": "LANGUAGE",
+            "description": "Ruby"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262172-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Apache Kafka",
+            "id": "Apache Kafka",
+            "title": "Apache Kafka",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Apache Kafka"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262173-07:00",
                     "description": ""
                 }
             ],
@@ -1429,87 +1157,103 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
+                    "date": "2023-01-30T20:02:10.262173-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Scala",
-            "id": "Scala",
-            "title": "Scala",
-            "quadrant": "LANGUAGE",
-            "description": "Scala"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "PHP",
-            "id": "PHP",
-            "title": "PHP",
-            "quadrant": "LANGUAGE",
-            "description": "PHP"
+            "key": "CouchDB",
+            "id": "CouchDB",
+            "title": "CouchDB",
+            "quadrant": "DATABASE",
+            "description": "CouchDB"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
+                    "date": "2023-01-30T20:02:10.262173-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Erlang",
-            "id": "Erlang",
-            "title": "Erlang",
+            "key": "Django",
+            "id": "Django",
+            "title": "Django",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Django"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262173-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Pandas",
+            "id": "Pandas",
+            "title": "Pandas",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Pandas"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262174-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Dart",
+            "id": "Dart",
+            "title": "Dart",
             "quadrant": "LANGUAGE",
-            "description": "Erlang"
+            "description": "Dart"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262174-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Firebase Realtime Database",
+            "id": "Firebase Realtime Database",
+            "title": "Firebase Realtime Database",
+            "quadrant": "DATABASE",
+            "description": "Firebase Realtime Database"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262174-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Cloud Firestore",
+            "id": "Cloud Firestore",
+            "title": "Cloud Firestore",
+            "quadrant": "DATABASE",
+            "description": "Cloud Firestore"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Python",
-            "id": "Python",
-            "title": "Python",
-            "quadrant": "LANGUAGE",
-            "description": "Python"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.813014-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "#",
-            "key": "Java",
-            "id": "Java",
-            "title": "Java",
-            "quadrant": "LANGUAGE",
-            "description": "Java"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-01-30T13:30:26.813015-07:00",
+                    "date": "2023-01-30T20:02:10.262175-07:00",
                     "description": ""
                 }
             ],
@@ -1524,33 +1268,273 @@
             "timeline": [
                 {
                     "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-01-30T13:30:26.813015-07:00",
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262175-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "Electron",
-            "id": "Electron",
-            "title": "Electron",
+            "key": "Hazelcast",
+            "id": "Hazelcast",
+            "title": "Hazelcast",
+            "quadrant": "DATABASE",
+            "description": "Hazelcast"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262175-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "ASP",
+            "id": "ASP",
+            "title": "ASP",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "ASP"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262175-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "C++",
+            "id": "C++",
+            "title": "C++",
+            "quadrant": "LANGUAGE",
+            "description": "C++"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262176-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Rust",
+            "id": "Rust",
+            "title": "Rust",
+            "quadrant": "LANGUAGE",
+            "description": "Rust"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262176-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Redis",
+            "id": "Redis",
+            "title": "Redis",
+            "quadrant": "DATABASE",
+            "description": "Redis"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262176-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Capacitor",
+            "id": "Capacitor",
+            "title": "Capacitor",
             "quadrant": "OTHER FRAMEWORKS",
-            "description": "Electron"
+            "description": "Capacitor"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "MID",
-                    "date": "2023-01-30T13:30:26.813015-07:00",
+                    "date": "2023-01-30T20:02:10.262176-07:00",
                     "description": ""
                 }
             ],
             "url": "#",
-            "key": "C",
-            "id": "C",
-            "title": "C",
+            "key": "Kotlin",
+            "id": "Kotlin",
+            "title": "Kotlin",
             "quadrant": "LANGUAGE",
-            "description": "C"
+            "description": "Kotlin"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262177-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Scikit-learn",
+            "id": "Scikit-learn",
+            "title": "Scikit-learn",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Scikit-learn"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262177-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Perl",
+            "id": "Perl",
+            "title": "Perl",
+            "quadrant": "LANGUAGE",
+            "description": "Perl"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262177-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Flutter",
+            "id": "Flutter",
+            "title": "Flutter",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Flutter"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262177-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Crystal",
+            "id": "Crystal",
+            "title": "Crystal",
+            "quadrant": "LANGUAGE",
+            "description": "Crystal"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262178-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "JQuery",
+            "id": "JQuery",
+            "title": "JQuery",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "JQuery"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262178-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Python",
+            "id": "Python",
+            "title": "Python",
+            "quadrant": "LANGUAGE",
+            "description": "Python"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-01-30T20:02:10.262178-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Torch/PyTorch",
+            "id": "Torch/PyTorch",
+            "title": "Torch/PyTorch",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Torch/PyTorch"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262178-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Node.js",
+            "id": "Node.js",
+            "title": "Node.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Node.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-01-30T20:02:10.262179-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "PHP",
+            "id": "PHP",
+            "title": "PHP",
+            "quadrant": "LANGUAGE",
+            "description": "PHP"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-01-30T20:02:10.262179-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "#",
+            "key": "Java",
+            "id": "Java",
+            "title": "Java",
+            "quadrant": "LANGUAGE",
+            "description": "Java"
         }
     ],
     "quadrants": [
@@ -1592,6 +1576,5 @@
             "name": "UNUSED",
             "color": "#ff0000"
         }
-
     ]
 }
