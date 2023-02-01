@@ -1,4 +1,4 @@
-APL|https://foo.bar.com
+APL|https://tryapl.org/
 Bash/Shell
 C
 C#
