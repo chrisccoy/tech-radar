@@ -1,20 +1,20 @@
-Cassandra
-Couchbase
-CouchDB
-Cloud Firestore
-DynamoDB
-Elasticsearch
-IBM DB2
-MariaDB
-Microsoft SQL Server
-MongoDB
-MySQL
-Neo4j
-Oracle
-PostgreSQL
+Cassandra|https://cassandra.apache.org/_/index.html
+Couchbase|https://www.couchbase.com/
+CouchDB|https://couchdb.apache.org/
+Cloud Firestore|https://cloud.google.com/firestore
+DynamoDB|https://aws.amazon.com/dynamodb/
+Elasticsearch|https://www.elastic.co/elasticsearch/
+IBM DB2|https://www.ibm.com/products/db2
+MariaDB|https://mariadb.org/
+Microsoft SQL Server|https://www.microsoft.com/en-us/sql-server
+MongoDB|https://www.mongodb.com/
+MySQL|https://www.mysql.com/
+Neo4j|https://neo4j.com/
+Oracle|https://www.oracle.com/database/technologies/
+PostgreSQL|https://www.postgresql.org/
 Firebase Realtime Database|https://firebase.google.com/docs/database
-Redis
-SQLite
-Hazelcast
-Oracle Coherence
-Apache Ignite
+Redis|https://redis.com/
+SQLite|https://sqlite.org/index.html
+Hazelcast|https://hazelcast.com/
+Oracle Coherence|https://www.oracle.com/java/coherence/
+Apache Ignite|https://ignite.apache.org/

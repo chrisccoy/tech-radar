@@ -1,20 +1,20 @@
-.NET
-Apache Kafka
-Apache Spark
-Capacitor
-Cordova
-Electron
-Flutter
-GTK
-Hadoop
-Ionic
-Keras
-Pandas
-Qt
-React Native
-Scikit-learn
-Spring
-TensorFlow
-Torch/PyTorch
-Hugging Face Transformers
-Xamarin
+.NET|https://dotnet.microsoft.com/
+Apache Kafka|https://kafka.apache.org/
+Apache Spark|https://spark.apache.org/
+Capacitor|https://capacitorjs.com/
+Cordova|https://cordova.apache.org/
+Electron|https://www.electronjs.org/
+Flutter|https://flutter.dev/
+GTK|https://www.gtk.org/
+Hadoop|https://hadoop.apache.org/
+Ionic|https://ionicframework.com/
+Keras|https://keras.io/
+Pandas|https://pandas.pydata.org/
+Qt|https://www.qt.io/product/framework
+React Native|https://reactnative.dev/
+Scikit-learn|https://scikit-learn.org/stable/
+Spring|https://spring.io/projects/spring-framework
+TensorFlow|https://www.tensorflow.org/
+Torch/PyTorch|https://pytorch.org/
+Hugging Face Transformers|https://huggingface.co/docs/transformers/index
+Xamarin|https://dotnet.microsoft.com/en-us/apps/xamarin
