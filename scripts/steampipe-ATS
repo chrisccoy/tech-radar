@@ -1,0 +1,3 @@
+spq=$(./build-sql.sh)
+#echo $spq
+steampipe query --output csv "$spq" >

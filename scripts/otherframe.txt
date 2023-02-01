@@ -1,0 +1,20 @@
+.NET
+Apache Kafka
+Apache Spark
+Capacitor
+Cordova
+Electron
+Flutter
+GTK
+Hadoop
+Ionic
+Keras
+Pandas
+Qt
+React Native
+Scikit-learn
+Spring
+TensorFlow
+Torch/PyTorch
+Hugging Face Transformers
+Xamarin
