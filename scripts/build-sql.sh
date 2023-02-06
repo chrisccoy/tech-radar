@@ -15,7 +15,7 @@ loadArray () {
    if [ "$url" ==  "$name" ] ; then
      url="#"
    fi
-   NAME=$name QUADRANT=$quad URL=$url CSVTABLE="ATS2023" SAMPSZ=161 envsubst <ats.sql
+   NAME=$name QUADRANT=$quad URL=$url CSVTABLE="ATS2023" SAMPSZ=244 envsubst <ats.sql
   if [ "$iter" != "${#arr[@]}" ] ; then
      echo "Union"
   fi
