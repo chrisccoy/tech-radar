@@ -5,7 +5,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720681-07:00",
+                    "date": "2023-02-06T16:32:28.046861-07:00",
                     "description": ""
                 }
             ],
@@ -21,7 +21,7 @@
                 {
                     "moved": 0,
                     "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720682-07:00",
+                    "date": "2023-02-06T16:32:28.046863-07:00",
                     "description": ""
                 }
             ],
@@ -37,7 +37,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720685-07:00",
+                    "date": "2023-02-06T16:32:28.046869-07:00",
                     "description": ""
                 }
             ],
@@ -53,7 +53,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720689-07:00",
+                    "date": "2023-02-06T16:32:28.046875-07:00",
                     "description": ""
                 }
             ],
@@ -69,7 +69,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720689-07:00",
+                    "date": "2023-02-06T16:32:28.046876-07:00",
                     "description": ""
                 }
             ],
@@ -83,25 +83,9 @@
         {
             "timeline": [
                 {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720692-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.php.net/",
-            "key": "PHP",
-            "id": "PHP",
-            "title": "PHP",
-            "quadrant": "LANGUAGE",
-            "description": "PHP"
-        },
-        {
-            "timeline": [
-                {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720692-07:00",
+                    "date": "2023-02-06T16:32:28.046894-07:00",
                     "description": ""
                 }
             ],
@@ -116,8 +100,40 @@
             "timeline": [
                 {
                     "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046895-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://jquery.com/",
+            "key": "JQuery",
+            "id": "JQuery",
+            "title": "JQuery",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "JQuery"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046896-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://mariadb.org/",
+            "key": "MariaDB",
+            "id": "MariaDB",
+            "title": "MariaDB",
+            "quadrant": "DATABASE",
+            "description": "MariaDB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
                     "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720692-07:00",
+                    "date": "2023-02-06T16:32:28.046896-07:00",
                     "description": ""
                 }
             ],
@@ -133,7 +149,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720692-07:00",
+                    "date": "2023-02-06T16:32:28.046907-07:00",
                     "description": ""
                 }
             ],
@@ -147,25 +163,9 @@
         {
             "timeline": [
                 {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720695-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://mariadb.org/",
-            "key": "MariaDB",
-            "id": "MariaDB",
-            "title": "MariaDB",
-            "quadrant": "DATABASE",
-            "description": "MariaDB"
-        },
-        {
-            "timeline": [
-                {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720695-07:00",
+                    "date": "2023-02-06T16:32:28.046908-07:00",
                     "description": ""
                 }
             ],
@@ -181,7 +181,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720695-07:00",
+                    "date": "2023-02-06T16:32:28.046909-07:00",
                     "description": ""
                 }
             ],
@@ -195,9 +195,25 @@
         {
             "timeline": [
                 {
+                    "moved": 1,
+                    "ringId": "MID",
+                    "date": "2023-02-06T16:32:28.046909-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3",
+            "key": "Poweshell",
+            "id": "Poweshell",
+            "title": "Poweshell",
+            "quadrant": "LANGUAGE",
+            "description": "Poweshell"
+        },
+        {
+            "timeline": [
+                {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720695-07:00",
+                    "date": "2023-02-06T16:32:28.04691-07:00",
                     "description": ""
                 }
             ],
@@ -212,40 +228,8 @@
             "timeline": [
                 {
                     "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720696-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.tensorflow.org/",
-            "key": "TensorFlow",
-            "id": "TensorFlow",
-            "title": "TensorFlow",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "TensorFlow"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720696-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.typescriptlang.org/",
-            "key": "TypeScript",
-            "id": "TypeScript",
-            "title": "TypeScript",
-            "quadrant": "LANGUAGE",
-            "description": "TypeScript"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720696-07:00",
+                    "date": "2023-02-06T16:32:28.046912-07:00",
                     "description": ""
                 }
             ],
@@ -261,7 +245,39 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720696-07:00",
+                    "date": "2023-02-06T16:32:28.046913-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.tensorflow.org/",
+            "key": "TensorFlow",
+            "id": "TensorFlow",
+            "title": "TensorFlow",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "TensorFlow"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046913-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.typescriptlang.org/",
+            "key": "TypeScript",
+            "id": "TypeScript",
+            "title": "TypeScript",
+            "quadrant": "LANGUAGE",
+            "description": "TypeScript"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046913-07:00",
                     "description": ""
                 }
             ],
@@ -277,7 +293,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720696-07:00",
+                    "date": "2023-02-06T16:32:28.046925-07:00",
                     "description": ""
                 }
             ],
@@ -293,7 +309,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720699-07:00",
+                    "date": "2023-02-06T16:32:28.046925-07:00",
                     "description": ""
                 }
             ],
@@ -309,7 +325,7 @@
                 {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720699-07:00",
+                    "date": "2023-02-06T16:32:28.046926-07:00",
                     "description": ""
                 }
             ],
@@ -323,25 +339,25 @@
         {
             "timeline": [
                 {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720699-07:00",
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046927-07:00",
                     "description": ""
                 }
             ],
-            "url": "https://en.wikipedia.org/wiki/SQL",
-            "key": "SQL",
-            "id": "SQL",
-            "title": "SQL",
-            "quadrant": "LANGUAGE",
-            "description": "SQL"
+            "url": "https://www.oracle.com/java/coherence/",
+            "key": "Oracle Coherence",
+            "id": "Oracle Coherence",
+            "title": "Oracle Coherence",
+            "quadrant": "DATABASE",
+            "description": "Oracle Coherence"
         },
         {
             "timeline": [
                 {
                     "moved": 0,
                     "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720699-07:00",
+                    "date": "2023-02-06T16:32:28.046927-07:00",
                     "description": ""
                 }
             ],
@@ -355,9 +371,25 @@
         {
             "timeline": [
                 {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046928-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.gnu.org/software/bash/",
+            "key": "Bash/Shell",
+            "id": "Bash/Shell",
+            "title": "Bash/Shell",
+            "quadrant": "LANGUAGE",
+            "description": "Bash/Shell"
+        },
+        {
+            "timeline": [
+                {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.04693-07:00",
                     "description": ""
                 }
             ],
@@ -373,7 +405,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.046931-07:00",
                     "description": ""
                 }
             ],
@@ -389,7 +421,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.046931-07:00",
                     "description": ""
                 }
             ],
@@ -405,7 +437,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.046932-07:00",
                     "description": ""
                 }
             ],
@@ -421,7 +453,7 @@
                 {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.046932-07:00",
                     "description": ""
                 }
             ],
@@ -437,7 +469,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.7207-07:00",
+                    "date": "2023-02-06T16:32:28.046933-07:00",
                     "description": ""
                 }
             ],
@@ -453,7 +485,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046933-07:00",
                     "description": ""
                 }
             ],
@@ -469,7 +501,23 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046933-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.php.net/",
+            "key": "PHP",
+            "id": "PHP",
+            "title": "PHP",
+            "quadrant": "LANGUAGE",
+            "description": "PHP"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046934-07:00",
                     "description": ""
                 }
             ],
@@ -485,7 +533,7 @@
                 {
                     "moved": 0,
                     "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046934-07:00",
                     "description": ""
                 }
             ],
@@ -501,7 +549,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046934-07:00",
                     "description": ""
                 }
             ],
@@ -517,7 +565,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046956-07:00",
                     "description": ""
                 }
             ],
@@ -533,7 +581,7 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720701-07:00",
+                    "date": "2023-02-06T16:32:28.046957-07:00",
                     "description": ""
                 }
             ],
@@ -549,7 +597,7 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720702-07:00",
+                    "date": "2023-02-06T16:32:28.046957-07:00",
                     "description": ""
                 }
             ],
@@ -565,7 +613,7 @@
                 {
                     "moved": 1,
                     "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.72071-07:00",
+                    "date": "2023-02-06T16:32:28.046958-07:00",
                     "description": ""
                 }
             ],
@@ -581,7 +629,7 @@
                 {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.72071-07:00",
+                    "date": "2023-02-06T16:32:28.046958-07:00",
                     "description": ""
                 }
             ],
@@ -597,7 +645,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.72071-07:00",
+                    "date": "2023-02-06T16:32:28.046958-07:00",
                     "description": ""
                 }
             ],
@@ -613,7 +661,7 @@
                 {
                     "moved": -1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.72071-07:00",
+                    "date": "2023-02-06T16:32:28.046959-07:00",
                     "description": ""
                 }
             ],
@@ -629,7 +677,7 @@
                 {
                     "moved": 1,
                     "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.72071-07:00",
+                    "date": "2023-02-06T16:32:28.046959-07:00",
                     "description": ""
                 }
             ],
@@ -645,7 +693,7 @@
                 {
                     "moved": 0,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.04696-07:00",
                     "description": ""
                 }
             ],
@@ -661,7 +709,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.04696-07:00",
                     "description": ""
                 }
             ],
@@ -677,7 +725,7 @@
                 {
                     "moved": 0,
                     "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.04696-07:00",
                     "description": ""
                 }
             ],
@@ -693,7 +741,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.046961-07:00",
                     "description": ""
                 }
             ],
@@ -709,7 +757,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.046961-07:00",
                     "description": ""
                 }
             ],
@@ -725,7 +773,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720711-07:00",
+                    "date": "2023-02-06T16:32:28.046961-07:00",
                     "description": ""
                 }
             ],
@@ -741,103 +789,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://firebase.google.com/docs/database",
-            "key": "Firebase Realtime Database",
-            "id": "Firebase Realtime Database",
-            "title": "Firebase Realtime Database",
-            "quadrant": "DATABASE",
-            "description": "Firebase Realtime Database"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.qt.io/product/framework",
-            "key": "Qt",
-            "id": "Qt",
-            "title": "Qt",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Qt"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.r-project.org/",
-            "key": "R",
-            "id": "R",
-            "title": "R",
-            "quadrant": "LANGUAGE",
-            "description": "R"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3",
-            "key": "Poweshell",
-            "id": "Poweshell",
-            "title": "Poweshell",
-            "quadrant": "LANGUAGE",
-            "description": "Poweshell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://aws.amazon.com/dynamodb/",
-            "key": "DynamoDB",
-            "id": "DynamoDB",
-            "title": "DynamoDB",
-            "quadrant": "DATABASE",
-            "description": "DynamoDB"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://jquery.com/",
-            "key": "JQuery",
-            "id": "JQuery",
-            "title": "JQuery",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "JQuery"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720712-07:00",
+                    "date": "2023-02-06T16:32:28.046962-07:00",
                     "description": ""
                 }
             ],
@@ -853,583 +805,7 @@
                 {
                     "moved": 1,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720713-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://redis.com/",
-            "key": "Redis",
-            "id": "Redis",
-            "title": "Redis",
-            "quadrant": "DATABASE",
-            "description": "Redis"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720713-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.drupal.org/project/framework",
-            "key": "Drupal",
-            "id": "Drupal",
-            "title": "Drupal",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Drupal"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720713-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://pandas.pydata.org/",
-            "key": "Pandas",
-            "id": "Pandas",
-            "title": "Pandas",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Pandas"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720713-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://javascript.info/js",
-            "key": "JavaScript",
-            "id": "JavaScript",
-            "title": "JavaScript",
-            "quadrant": "LANGUAGE",
-            "description": "JavaScript"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720713-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://crystal-lang.org/",
-            "key": "Crystal",
-            "id": "Crystal",
-            "title": "Crystal",
-            "quadrant": "LANGUAGE",
-            "description": "Crystal"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720715-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://cassandra.apache.org/_/index.html",
-            "key": "Cassandra",
-            "id": "Cassandra",
-            "title": "Cassandra",
-            "quadrant": "DATABASE",
-            "description": "Cassandra"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720715-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.gnu.org/software/bash/",
-            "key": "Bash/Shell",
-            "id": "Bash/Shell",
-            "title": "Bash/Shell",
-            "quadrant": "LANGUAGE",
-            "description": "Bash/Shell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720715-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://angular.io/",
-            "key": "Angular",
-            "id": "Angular",
-            "title": "Angular",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Angular"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720716-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://en.wikipedia.org/wiki/COBOL",
-            "key": "COBOL",
-            "id": "COBOL",
-            "title": "COBOL",
-            "quadrant": "LANGUAGE",
-            "description": "COBOL"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720716-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://groovy-lang.org/",
-            "key": "Groovy",
-            "id": "Groovy",
-            "title": "Groovy",
-            "quadrant": "LANGUAGE",
-            "description": "Groovy"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720716-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://dart.dev/",
-            "key": "Dart",
-            "id": "Dart",
-            "title": "Dart",
-            "quadrant": "LANGUAGE",
-            "description": "Dart"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720716-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.oracle.com/java/coherence/",
-            "key": "Oracle Coherence",
-            "id": "Oracle Coherence",
-            "title": "Oracle Coherence",
-            "quadrant": "DATABASE",
-            "description": "Oracle Coherence"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720716-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://reactnative.dev/",
-            "key": "React Native",
-            "id": "React Native",
-            "title": "React Native",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "React Native"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720717-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://capacitorjs.com/",
-            "key": "Capacitor",
-            "id": "Capacitor",
-            "title": "Capacitor",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Capacitor"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720717-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.djangoproject.com/",
-            "key": "Django",
-            "id": "Django",
-            "title": "Django",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Django"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720717-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://nuxtjs.org/",
-            "key": "Nuxt.js",
-            "id": "Nuxt.js",
-            "title": "Nuxt.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Nuxt.js"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://flask.palletsprojects.com/en/2.2.x/",
-            "key": "Flask",
-            "id": "Flask",
-            "title": "Flask",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Flask"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://go.dev/",
-            "key": "Go",
-            "id": "Go",
-            "title": "Go",
-            "quadrant": "LANGUAGE",
-            "description": "Go"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.playframework.com/",
-            "key": "Play",
-            "id": "Play",
-            "title": "Play",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Play"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.microsoft.com/en-us/sql-server",
-            "key": "Microsoft SQL Server",
-            "id": "Microsoft SQL Server",
-            "title": "Microsoft SQL Server",
-            "quadrant": "DATABASE",
-            "description": "Microsoft SQL Server"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.ruby-lang.org/en/",
-            "key": "Ruby",
-            "id": "Ruby",
-            "title": "Ruby",
-            "quadrant": "LANGUAGE",
-            "description": "Ruby"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720725-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://expressjs.com/",
-            "key": "Express",
-            "id": "Express",
-            "title": "Express",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Express"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://hazelcast.com/",
-            "key": "Hazelcast",
-            "id": "Hazelcast",
-            "title": "Hazelcast",
-            "quadrant": "DATABASE",
-            "description": "Hazelcast"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.haskell.org/",
-            "key": "Haskell",
-            "id": "Haskell",
-            "title": "Haskell",
-            "quadrant": "LANGUAGE",
-            "description": "Haskell"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.postgresql.org/",
-            "key": "PostgreSQL",
-            "id": "PostgreSQL",
-            "title": "PostgreSQL",
-            "quadrant": "DATABASE",
-            "description": "PostgreSQL"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "UNUSED",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://julialang.org/",
-            "key": "Julia",
-            "id": "Julia",
-            "title": "Julia",
-            "quadrant": "LANGUAGE",
-            "description": "Julia"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://nextjs.org/",
-            "key": "Next.js",
-            "id": "Next.js",
-            "title": "Next.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Next.js"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.python.org/",
-            "key": "Python",
-            "id": "Python",
-            "title": "Python",
-            "quadrant": "LANGUAGE",
-            "description": "Python"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720726-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://dotnet.microsoft.com/",
-            "key": ".NET",
-            "id": ".NET",
-            "title": ".NET",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": ".NET"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://clojure.org/",
-            "key": "Clojure",
-            "id": "Clojure",
-            "title": "Clojure",
-            "quadrant": "LANGUAGE",
-            "description": "Clojure"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "MID",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
-            "key": "C",
-            "id": "C",
-            "title": "C",
-            "quadrant": "LANGUAGE",
-            "description": "C"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://pytorch.org/",
-            "key": "Torch/PyTorch",
-            "id": "Torch/PyTorch",
-            "title": "Torch/PyTorch",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Torch/PyTorch"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://rubyonrails.org/",
-            "key": "Ruby on Rails",
-            "id": "Ruby on Rails",
-            "title": "Ruby on Rails",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Ruby on Rails"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://cloud.google.com/firestore",
-            "key": "Cloud Firestore",
-            "id": "Cloud Firestore",
-            "title": "Cloud Firestore",
-            "quadrant": "DATABASE",
-            "description": "Cloud Firestore"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720727-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://scikit-learn.org/stable/",
-            "key": "Scikit-learn",
-            "id": "Scikit-learn",
-            "title": "Scikit-learn",
-            "quadrant": "OTHER FRAMEWORKS",
-            "description": "Scikit-learn"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 1,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://nodejs.org/",
-            "key": "Node.js",
-            "id": "Node.js",
-            "title": "Node.js",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "Node.js"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
+                    "date": "2023-02-06T16:32:28.046962-07:00",
                     "description": ""
                 }
             ],
@@ -1443,73 +819,25 @@
         {
             "timeline": [
                 {
-                    "moved": -1,
+                    "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
+                    "date": "2023-02-06T16:32:28.046962-07:00",
                     "description": ""
                 }
             ],
-            "url": "https://fortran-lang.org/en/",
-            "key": "Fortran",
-            "id": "Fortran",
-            "title": "Fortran",
-            "quadrant": "LANGUAGE",
-            "description": "Fortran"
+            "url": "https://firebase.google.com/docs/database",
+            "key": "Firebase Realtime Database",
+            "id": "Firebase Realtime Database",
+            "title": "Firebase Realtime Database",
+            "quadrant": "DATABASE",
+            "description": "Firebase Realtime Database"
         },
         {
             "timeline": [
                 {
                     "moved": 1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://www.scala-lang.org/",
-            "key": "Scala",
-            "id": "Scala",
-            "title": "Scala",
-            "quadrant": "LANGUAGE",
-            "description": "Scala"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
                     "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
-            "key": "HTML/CSS",
-            "id": "HTML/CSS",
-            "title": "HTML/CSS",
-            "quadrant": "LANGUAGE",
-            "description": "HTML/CSS"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": -1,
-                    "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720728-07:00",
-                    "description": ""
-                }
-            ],
-            "url": "https://dotnet.microsoft.com/en-us/apps/aspnet",
-            "key": "ASP",
-            "id": "ASP",
-            "title": "ASP",
-            "quadrant": "WEB FRAMEWORKS",
-            "description": "ASP"
-        },
-        {
-            "timeline": [
-                {
-                    "moved": 0,
-                    "ringId": "HIGH",
-                    "date": "2023-02-06T15:59:40.720729-07:00",
+                    "date": "2023-02-06T16:32:28.046963-07:00",
                     "description": ""
                 }
             ],
@@ -1525,7 +853,679 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720729-07:00",
+                    "date": "2023-02-06T16:32:28.046963-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.qt.io/product/framework",
+            "key": "Qt",
+            "id": "Qt",
+            "title": "Qt",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Qt"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046964-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.r-project.org/",
+            "key": "R",
+            "id": "R",
+            "title": "R",
+            "quadrant": "LANGUAGE",
+            "description": "R"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046964-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://aws.amazon.com/dynamodb/",
+            "key": "DynamoDB",
+            "id": "DynamoDB",
+            "title": "DynamoDB",
+            "quadrant": "DATABASE",
+            "description": "DynamoDB"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046964-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://redis.com/",
+            "key": "Redis",
+            "id": "Redis",
+            "title": "Redis",
+            "quadrant": "DATABASE",
+            "description": "Redis"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046968-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://cassandra.apache.org/_/index.html",
+            "key": "Cassandra",
+            "id": "Cassandra",
+            "title": "Cassandra",
+            "quadrant": "DATABASE",
+            "description": "Cassandra"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-02-06T16:32:28.046968-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.drupal.org/project/framework",
+            "key": "Drupal",
+            "id": "Drupal",
+            "title": "Drupal",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Drupal"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046969-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://pandas.pydata.org/",
+            "key": "Pandas",
+            "id": "Pandas",
+            "title": "Pandas",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Pandas"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-02-06T16:32:28.046969-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://crystal-lang.org/",
+            "key": "Crystal",
+            "id": "Crystal",
+            "title": "Crystal",
+            "quadrant": "LANGUAGE",
+            "description": "Crystal"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046969-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+            "key": "HTML/CSS",
+            "id": "HTML/CSS",
+            "title": "HTML/CSS",
+            "quadrant": "LANGUAGE",
+            "description": "HTML/CSS"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "MID",
+                    "date": "2023-02-06T16:32:28.04697-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://angular.io/",
+            "key": "Angular",
+            "id": "Angular",
+            "title": "Angular",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Angular"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.04697-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://en.wikipedia.org/wiki/COBOL",
+            "key": "COBOL",
+            "id": "COBOL",
+            "title": "COBOL",
+            "quadrant": "LANGUAGE",
+            "description": "COBOL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.04697-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://groovy-lang.org/",
+            "key": "Groovy",
+            "id": "Groovy",
+            "title": "Groovy",
+            "quadrant": "LANGUAGE",
+            "description": "Groovy"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-02-06T16:32:28.046971-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://dart.dev/",
+            "key": "Dart",
+            "id": "Dart",
+            "title": "Dart",
+            "quadrant": "LANGUAGE",
+            "description": "Dart"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "MID",
+                    "date": "2023-02-06T16:32:28.046971-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://reactnative.dev/",
+            "key": "React Native",
+            "id": "React Native",
+            "title": "React Native",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "React Native"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046972-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://capacitorjs.com/",
+            "key": "Capacitor",
+            "id": "Capacitor",
+            "title": "Capacitor",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Capacitor"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046972-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.djangoproject.com/",
+            "key": "Django",
+            "id": "Django",
+            "title": "Django",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Django"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046988-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://nuxtjs.org/",
+            "key": "Nuxt.js",
+            "id": "Nuxt.js",
+            "title": "Nuxt.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Nuxt.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046988-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://go.dev/",
+            "key": "Go",
+            "id": "Go",
+            "title": "Go",
+            "quadrant": "LANGUAGE",
+            "description": "Go"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046988-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.playframework.com/",
+            "key": "Play",
+            "id": "Play",
+            "title": "Play",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Play"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "MID",
+                    "date": "2023-02-06T16:32:28.046989-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://expressjs.com/",
+            "key": "Express",
+            "id": "Express",
+            "title": "Express",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Express"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046989-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://hazelcast.com/",
+            "key": "Hazelcast",
+            "id": "Hazelcast",
+            "title": "Hazelcast",
+            "quadrant": "DATABASE",
+            "description": "Hazelcast"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046989-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.haskell.org/",
+            "key": "Haskell",
+            "id": "Haskell",
+            "title": "Haskell",
+            "quadrant": "LANGUAGE",
+            "description": "Haskell"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.04699-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://javascript.info/js",
+            "key": "JavaScript",
+            "id": "JavaScript",
+            "title": "JavaScript",
+            "quadrant": "LANGUAGE",
+            "description": "JavaScript"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.04699-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.ruby-lang.org/en/",
+            "key": "Ruby",
+            "id": "Ruby",
+            "title": "Ruby",
+            "quadrant": "LANGUAGE",
+            "description": "Ruby"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "MID",
+                    "date": "2023-02-06T16:32:28.04699-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+            "key": "C",
+            "id": "C",
+            "title": "C",
+            "quadrant": "LANGUAGE",
+            "description": "C"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "UNUSED",
+                    "date": "2023-02-06T16:32:28.04699-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://julialang.org/",
+            "key": "Julia",
+            "id": "Julia",
+            "title": "Julia",
+            "quadrant": "LANGUAGE",
+            "description": "Julia"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046991-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://nextjs.org/",
+            "key": "Next.js",
+            "id": "Next.js",
+            "title": "Next.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Next.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046991-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.python.org/",
+            "key": "Python",
+            "id": "Python",
+            "title": "Python",
+            "quadrant": "LANGUAGE",
+            "description": "Python"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046991-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://dotnet.microsoft.com/",
+            "key": ".NET",
+            "id": ".NET",
+            "title": ".NET",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": ".NET"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046992-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://flask.palletsprojects.com/en/2.2.x/",
+            "key": "Flask",
+            "id": "Flask",
+            "title": "Flask",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Flask"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046992-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://en.wikipedia.org/wiki/SQL",
+            "key": "SQL",
+            "id": "SQL",
+            "title": "SQL",
+            "quadrant": "LANGUAGE",
+            "description": "SQL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046992-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://clojure.org/",
+            "key": "Clojure",
+            "id": "Clojure",
+            "title": "Clojure",
+            "quadrant": "LANGUAGE",
+            "description": "Clojure"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046993-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://pytorch.org/",
+            "key": "Torch/PyTorch",
+            "id": "Torch/PyTorch",
+            "title": "Torch/PyTorch",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Torch/PyTorch"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046993-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://rubyonrails.org/",
+            "key": "Ruby on Rails",
+            "id": "Ruby on Rails",
+            "title": "Ruby on Rails",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Ruby on Rails"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046993-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://cloud.google.com/firestore",
+            "key": "Cloud Firestore",
+            "id": "Cloud Firestore",
+            "title": "Cloud Firestore",
+            "quadrant": "DATABASE",
+            "description": "Cloud Firestore"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046993-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://scikit-learn.org/stable/",
+            "key": "Scikit-learn",
+            "id": "Scikit-learn",
+            "title": "Scikit-learn",
+            "quadrant": "OTHER FRAMEWORKS",
+            "description": "Scikit-learn"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046994-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.postgresql.org/",
+            "key": "PostgreSQL",
+            "id": "PostgreSQL",
+            "title": "PostgreSQL",
+            "quadrant": "DATABASE",
+            "description": "PostgreSQL"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046994-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://nodejs.org/",
+            "key": "Node.js",
+            "id": "Node.js",
+            "title": "Node.js",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "Node.js"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": -1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046994-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://fortran-lang.org/en/",
+            "key": "Fortran",
+            "id": "Fortran",
+            "title": "Fortran",
+            "quadrant": "LANGUAGE",
+            "description": "Fortran"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046995-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.scala-lang.org/",
+            "key": "Scala",
+            "id": "Scala",
+            "title": "Scala",
+            "quadrant": "LANGUAGE",
+            "description": "Scala"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "HIGH",
+                    "date": "2023-02-06T16:32:28.046995-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://www.microsoft.com/en-us/sql-server",
+            "key": "Microsoft SQL Server",
+            "id": "Microsoft SQL Server",
+            "title": "Microsoft SQL Server",
+            "quadrant": "DATABASE",
+            "description": "Microsoft SQL Server"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": -1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046995-07:00",
+                    "description": ""
+                }
+            ],
+            "url": "https://dotnet.microsoft.com/en-us/apps/aspnet",
+            "key": "ASP",
+            "id": "ASP",
+            "title": "ASP",
+            "quadrant": "WEB FRAMEWORKS",
+            "description": "ASP"
+        },
+        {
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "LOW",
+                    "date": "2023-02-06T16:32:28.046996-07:00",
                     "description": ""
                 }
             ],
@@ -1541,7 +1541,7 @@
                 {
                     "moved": 1,
                     "ringId": "LOW",
-                    "date": "2023-02-06T15:59:40.720729-07:00",
+                    "date": "2023-02-06T16:32:28.046997-07:00",
                     "description": ""
                 }
             ],
