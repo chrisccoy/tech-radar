@@ -94,17 +94,18 @@ func formatRadar(theCsv [][]string) *types.TechRadar {
 		types.Quadrant{ID: "DATABASE", Name: "DATABASE"},
 		types.Quadrant{ID: "OTHER FRAMEWORKS", Name: "OTHER FRAMEWORKS"},*/
 
-	quads := make(map[string]string);
+	quads := make(map[string]string)
 	radar.Rings = append(radar.Rings, types.Ring{ID: HighUse, Name: HighUse, Color: HighUseColor}, types.Ring{ID: MediumUse, Name: MediumUse, Color: MediumUseColor}, types.Ring{ID: LowUse, Name: LowUse, Color: LowUseColor}, types.Ring{ID: NoUse, Name: NoUse, Color: NoUseColor})
 	for k, i := range theCsv {
-		_, v := quads[i[1]];
-		if (!v) {
-			quads[i[1]] = i[1];
-			radar.Quadrants = append(radar.Quadrants, types.Quadrant{ID: i[1], Name: i[1]})
-		}
 		//Skip the header
 		if k == 0 {
 			continue
+		}
+		// Build the Quadrants incrementally as they appear
+		_, v := quads[i[2]]
+		if !v {
+			quads[i[2]] = i[2]
+			radar.Quadrants = append(radar.Quadrants, types.Quadrant{ID: i[2], Name: i[2]})
 		}
 		moved, _ := strconv.Atoi(i[5])
 		radar.Entries = append(radar.Entries, types.Entry{Timeline: []types.TimelineEntry{{Moved: moved, RingID: i[1], Date: time.Now()}},
