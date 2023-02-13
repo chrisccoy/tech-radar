@@ -1,0 +1,18 @@
+Android Studio|https://developer.android.com/studio
+Atom|https://github.blog/2022-06-08-sunsetting-atom/
+CLion|https://www.jetbrains.com/clion/
+Eclipse|https://www.eclipse.org/ide/
+Emacs|https://www.gnu.org/software/emacs/
+GoLand|https://www.jetbrains.com/go/
+Intellij|https://www.jetbrains.com/idea/
+IPython/Jupyter|https://jupyter.org/
+Nano|https://www.nano-editor.org/
+NetBeans|https://netbeans.apache.org/
+Neovim|https://neovim.io/
+Notepad++|https://notepad-plus-plus.org/
+PhpStorm|https://www.jetbrains.com/phpstorm/
+PyCharm|https://www.jetbrains.com/pycharm/
+Qt Creator|https://www.qt.io/product/development-tools
+Visual Studio|https://visualstudio.microsoft.com/
+Xcode|https://developer.apple.com/xcode/
+Visual Studio Code|https://code.visualstudio.com/

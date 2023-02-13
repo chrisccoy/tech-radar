@@ -1,0 +1,9 @@
+Jenkins|https://www.jenkins.io/
+CircleCI|https://circleci.com/
+Travis|https://www.travis-ci.com/
+Argo|https://argoproj.github.io/argo-workflows/use-cases/ci-cd/
+Gitlab2|https://docs.gitlab.com/ee/ci/
+Bamboo|https://www.atlassian.com/software/bamboo
+Buildbot|https://buildbot.net/
+Codeship|https://docs.cloudbees.com/docs/cloudbees-codeship/latest/
+Flux|https://fluxcd.io/

@@ -26,23 +26,13 @@ loadArray () {
   done
 }
 
-buildLang() {
-  loadArray language.txt LANGUAGE ".1" ".05"
+readControl() {
+  loadArray ide.txt "DEV IDE"
   echo "Union"
-  loadArray webframe.txt "WEB FRAMEWORKS" ".1" ".05"
+  loadArray revcs.txt "REVISION CONTROL"
   echo "Union"
-  loadArray otherframe.txt "OTHER FRAMEWORKS" ".1" ".05"
+  loadArray opsys.txt "OPERATING SYSTEMS"
   echo "Union"
-  loadArray database.txt "DATABASE" ".1" ".05"
+  loadArray cicd.txt "CI/CD TOOLS"
 }
-buildCICD() {
-    loadArray ide.txt "DEV IDE" ".5" ".25"
-    echo "Union"
-    loadArray revcs.txt "REVISION CONTROL" ".5" ".25"
-    echo "Union"
-    loadArray opsys.txt "OPERATING SYSTEMS" ".5" ".25"
-    echo "Union"
-    loadArray cicd.txt "CI/CD TOOLS" ".5" ".25"
-}
-buildLang > lang.sql
-buildCICD > cicd.sql
+readControl

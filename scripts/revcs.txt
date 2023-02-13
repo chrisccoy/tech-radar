@@ -1,0 +1,7 @@
+AWS CodeCommit|https://aws.amazon.com/codecommit/
+Azure Repos|https://azure.microsoft.com/en-us/products/devops/repos
+Bitbucket|https://bitbucket.org/product
+Cloud Source Repositories|https://source.cloud.google.com/
+GitHub|https://github.com/
+GitLab|https://about.gitlab.com/why-gitlab/
+SVN|https://subversion.apache.org/

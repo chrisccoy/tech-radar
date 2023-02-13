@@ -1,0 +1,5 @@
+macOS|https://www.apple.com/macos
+Windows|https://www.microsoft.com/en-us/windows
+Linux-based|https://www.linux.com/what-is-linux/
+BSD|https://www.freebsd.org/
+Windows Subsystem for Linux (WSL)|https://learn.microsoft.com/en-us/windows/wsl/install
