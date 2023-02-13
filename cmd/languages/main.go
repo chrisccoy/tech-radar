@@ -89,13 +89,19 @@ func getLanguagesByGroup() {
 func formatRadar(theCsv [][]string) *types.TechRadar {
 
 	radar := types.TechRadar{}
-	radar.Quadrants = append(radar.Quadrants, types.Quadrant{ID: "LANGUAGE", Name: "LANGUAGE"},
+	/*	radar.Quadrants = append(radar.Quadrants, types.Quadrant{ID: "LANGUAGE", Name: "LANGUAGE"},
 		types.Quadrant{ID: "WEB FRAMEWORKS", Name: "WEB FRAMEWORKS"},
 		types.Quadrant{ID: "DATABASE", Name: "DATABASE"},
-		types.Quadrant{ID: "OTHER FRAMEWORKS", Name: "OTHER FRAMEWORKS"},
-	)
+		types.Quadrant{ID: "OTHER FRAMEWORKS", Name: "OTHER FRAMEWORKS"},*/
+
+	quads := make(map[string]string);
 	radar.Rings = append(radar.Rings, types.Ring{ID: HighUse, Name: HighUse, Color: HighUseColor}, types.Ring{ID: MediumUse, Name: MediumUse, Color: MediumUseColor}, types.Ring{ID: LowUse, Name: LowUse, Color: LowUseColor}, types.Ring{ID: NoUse, Name: NoUse, Color: NoUseColor})
 	for k, i := range theCsv {
+		_, v := quads[i[1]];
+		if (!v) {
+			quads[i[1]] = i[1];
+			radar.Quadrants = append(radar.Quadrants, types.Quadrant{ID: i[1], Name: i[1]})
+		}
 		//Skip the header
 		if k == 0 {
 			continue
