@@ -3,25 +3,25 @@
     {
       "timeline": [
         {
-          "moved": 1,
-          "ringId": "MID",
-          "date": "2023-02-13T16:09:41.679712-07:00",
+          "moved": 0,
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392205-07:00",
           "description": ""
         }
       ],
-      "url": "https://docs.gitlab.com/ee/ci/",
-      "key": "Gitlab",
-      "id": "Gitlab",
-      "title": "Gitlab",
-      "quadrant": "CI/CD TOOLS",
-      "description": "Gitlab"
+      "url": "https://www.microsoft.com/en-us/windows",
+      "key": "Windows",
+      "id": "Windows",
+      "title": "Windows",
+      "quadrant": "OPERATING SYSTEMS",
+      "description": "Windows"
     },
     {
       "timeline": [
         {
           "moved": -1,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679714-07:00",
+          "date": "2023-02-13T17:56:44.392207-07:00",
           "description": ""
         }
       ],
@@ -37,7 +37,7 @@
         {
           "moved": 0,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679718-07:00",
+          "date": "2023-02-13T17:56:44.392211-07:00",
           "description": ""
         }
       ],
@@ -51,9 +51,25 @@
     {
       "timeline": [
         {
+          "moved": 1,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392215-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://argoproj.github.io/argo-workflows/use-cases/ci-cd/",
+      "key": "Argo",
+      "id": "Argo",
+      "title": "Argo",
+      "quadrant": "CI/CD TOOLS",
+      "description": "Argo"
+    },
+    {
+      "timeline": [
+        {
           "moved": 0,
-          "ringId": "MID",
-          "date": "2023-02-13T16:09:41.679722-07:00",
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392215-07:00",
           "description": ""
         }
       ],
@@ -69,55 +85,7 @@
         {
           "moved": 1,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679722-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://argoproj.github.io/argo-workflows/use-cases/ci-cd/",
-      "key": "Argo",
-      "id": "Argo",
-      "title": "Argo",
-      "quadrant": "CI/CD TOOLS",
-      "description": "Argo"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "MID",
-          "date": "2023-02-13T16:09:41.679729-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://about.gitlab.com/why-gitlab/",
-      "key": "GitLab",
-      "id": "GitLab",
-      "title": "GitLab",
-      "quadrant": "REVISION CONTROL",
-      "description": "GitLab"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679729-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.linux.com/what-is-linux/",
-      "key": "Linux-based",
-      "id": "Linux-based",
-      "title": "Linux-based",
-      "quadrant": "OPERATING SYSTEMS",
-      "description": "Linux-based"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679729-07:00",
+          "date": "2023-02-13T17:56:44.392219-07:00",
           "description": ""
         }
       ],
@@ -132,24 +100,24 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "MID",
-          "date": "2023-02-13T16:09:41.67973-07:00",
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392219-07:00",
           "description": ""
         }
       ],
-      "url": "https://notepad-plus-plus.org/",
-      "key": "Notepad++",
-      "id": "Notepad++",
-      "title": "Notepad++",
-      "quadrant": "DEV IDE",
-      "description": "Notepad++"
+      "url": "https://about.gitlab.com/why-gitlab/",
+      "key": "GitLab",
+      "id": "GitLab",
+      "title": "GitLab",
+      "quadrant": "REVISION CONTROL",
+      "description": "GitLab"
     },
     {
       "timeline": [
         {
           "moved": -1,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679733-07:00",
+          "date": "2023-02-13T17:56:44.392219-07:00",
           "description": ""
         }
       ],
@@ -163,201 +131,9 @@
     {
       "timeline": [
         {
-          "moved": 1,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679733-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.jetbrains.com/pycharm/",
-      "key": "PyCharm",
-      "id": "PyCharm",
-      "title": "PyCharm",
-      "quadrant": "DEV IDE",
-      "description": "PyCharm"
-    },
-    {
-      "timeline": [
-        {
           "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679733-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://jupyter.org/",
-      "key": "IPython/Jupyter",
-      "id": "IPython/Jupyter",
-      "title": "IPython/Jupyter",
-      "quadrant": "DEV IDE",
-      "description": "IPython/Jupyter"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679734-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://developer.android.com/studio",
-      "key": "Android Studio",
-      "id": "Android Studio",
-      "title": "Android Studio",
-      "quadrant": "DEV IDE",
-      "description": "Android Studio"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679734-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://developer.apple.com/xcode/",
-      "key": "Xcode",
-      "id": "Xcode",
-      "title": "Xcode",
-      "quadrant": "DEV IDE",
-      "description": "Xcode"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679734-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://github.blog/2022-06-08-sunsetting-atom/",
-      "key": "Atom",
-      "id": "Atom",
-      "title": "Atom",
-      "quadrant": "DEV IDE",
-      "description": "Atom"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679734-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.freebsd.org/",
-      "key": "BSD",
-      "id": "BSD",
-      "title": "BSD",
-      "quadrant": "OPERATING SYSTEMS",
-      "description": "BSD"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679735-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.nano-editor.org/",
-      "key": "Nano",
-      "id": "Nano",
-      "title": "Nano",
-      "quadrant": "DEV IDE",
-      "description": "Nano"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "UNUSED",
-          "date": "2023-02-13T16:09:41.679735-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://source.cloud.google.com/",
-      "key": "Cloud Source Repositories",
-      "id": "Cloud Source Repositories",
-      "title": "Cloud Source Repositories",
-      "quadrant": "REVISION CONTROL",
-      "description": "Cloud Source Repositories"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679739-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://buildbot.net/",
-      "key": "Buildbot",
-      "id": "Buildbot",
-      "title": "Buildbot",
-      "quadrant": "CI/CD TOOLS",
-      "description": "Buildbot"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679739-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.travis-ci.com/",
-      "key": "Travis",
-      "id": "Travis",
-      "title": "Travis",
-      "quadrant": "CI/CD TOOLS",
-      "description": "Travis"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.67974-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.jetbrains.com/go/",
-      "key": "GoLand",
-      "id": "GoLand",
-      "title": "GoLand",
-      "quadrant": "DEV IDE",
-      "description": "GoLand"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.67974-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.gnu.org/software/emacs/",
-      "key": "Emacs",
-      "id": "Emacs",
-      "title": "Emacs",
-      "quadrant": "DEV IDE",
-      "description": "Emacs"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.67974-07:00",
+          "ringId": "MID",
+          "date": "2023-02-13T17:56:44.392219-07:00",
           "description": ""
         }
       ],
@@ -373,7 +149,231 @@
         {
           "moved": 1,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.67974-07:00",
+          "date": "2023-02-13T17:56:44.392223-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.jetbrains.com/pycharm/",
+      "key": "PyCharm",
+      "id": "PyCharm",
+      "title": "PyCharm",
+      "quadrant": "DEV IDE",
+      "description": "PyCharm"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392223-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://jupyter.org/",
+      "key": "IPython/Jupyter",
+      "id": "IPython/Jupyter",
+      "title": "IPython/Jupyter",
+      "quadrant": "DEV IDE",
+      "description": "IPython/Jupyter"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392224-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://github.com/",
+      "key": "GitHub",
+      "id": "GitHub",
+      "title": "GitHub",
+      "quadrant": "REVISION CONTROL",
+      "description": "GitHub"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392224-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://developer.android.com/studio",
+      "key": "Android Studio",
+      "id": "Android Studio",
+      "title": "Android Studio",
+      "quadrant": "DEV IDE",
+      "description": "Android Studio"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392224-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://developer.apple.com/xcode/",
+      "key": "Xcode",
+      "id": "Xcode",
+      "title": "Xcode",
+      "quadrant": "DEV IDE",
+      "description": "Xcode"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392224-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://github.blog/2022-06-08-sunsetting-atom/",
+      "key": "Atom",
+      "id": "Atom",
+      "title": "Atom",
+      "quadrant": "DEV IDE",
+      "description": "Atom"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392225-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.freebsd.org/",
+      "key": "BSD",
+      "id": "BSD",
+      "title": "BSD",
+      "quadrant": "OPERATING SYSTEMS",
+      "description": "BSD"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392225-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://docs.gitlab.com/ee/ci/",
+      "key": "Gitlab",
+      "id": "Gitlab",
+      "title": "Gitlab",
+      "quadrant": "CI/CD TOOLS",
+      "description": "Gitlab"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392225-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.nano-editor.org/",
+      "key": "Nano",
+      "id": "Nano",
+      "title": "Nano",
+      "quadrant": "DEV IDE",
+      "description": "Nano"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392229-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://source.cloud.google.com/",
+      "key": "Cloud Source Repositories",
+      "id": "Cloud Source Repositories",
+      "title": "Cloud Source Repositories",
+      "quadrant": "REVISION CONTROL",
+      "description": "Cloud Source Repositories"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392229-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://buildbot.net/",
+      "key": "Buildbot",
+      "id": "Buildbot",
+      "title": "Buildbot",
+      "quadrant": "CI/CD TOOLS",
+      "description": "Buildbot"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392229-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.travis-ci.com/",
+      "key": "Travis",
+      "id": "Travis",
+      "title": "Travis",
+      "quadrant": "CI/CD TOOLS",
+      "description": "Travis"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.39223-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.jetbrains.com/go/",
+      "key": "GoLand",
+      "id": "GoLand",
+      "title": "GoLand",
+      "quadrant": "DEV IDE",
+      "description": "GoLand"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.39223-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.gnu.org/software/emacs/",
+      "key": "Emacs",
+      "id": "Emacs",
+      "title": "Emacs",
+      "quadrant": "DEV IDE",
+      "description": "Emacs"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.39223-07:00",
           "description": ""
         }
       ],
@@ -388,24 +388,40 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679741-07:00",
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.39223-07:00",
           "description": ""
         }
       ],
-      "url": "https://www.apple.com/macos",
-      "key": "macOS",
-      "id": "macOS",
-      "title": "macOS",
+      "url": "https://www.linux.com/what-is-linux/",
+      "key": "Linux-based",
+      "id": "Linux-based",
+      "title": "Linux-based",
       "quadrant": "OPERATING SYSTEMS",
-      "description": "macOS"
+      "description": "Linux-based"
     },
     {
       "timeline": [
         {
           "moved": 0,
-          "ringId": "UNUSED",
-          "date": "2023-02-13T16:09:41.679741-07:00",
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392231-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.jetbrains.com/phpstorm/",
+      "key": "PhpStorm",
+      "id": "PhpStorm",
+      "title": "PhpStorm",
+      "quadrant": "DEV IDE",
+      "description": "PhpStorm"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "LOW",
+          "date": "2023-02-13T17:56:44.392231-07:00",
           "description": ""
         }
       ],
@@ -421,39 +437,7 @@
         {
           "moved": 0,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679741-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://www.jetbrains.com/phpstorm/",
-      "key": "PhpStorm",
-      "id": "PhpStorm",
-      "title": "PhpStorm",
-      "quadrant": "DEV IDE",
-      "description": "PhpStorm"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "MID",
-          "date": "2023-02-13T16:09:41.679741-07:00",
-          "description": ""
-        }
-      ],
-      "url": "https://github.com/",
-      "key": "GitHub",
-      "id": "GitHub",
-      "title": "GitHub",
-      "quadrant": "REVISION CONTROL",
-      "description": "GitHub"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679742-07:00",
+          "date": "2023-02-13T17:56:44.392231-07:00",
           "description": ""
         }
       ],
@@ -469,7 +453,7 @@
         {
           "moved": 1,
           "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679742-07:00",
+          "date": "2023-02-13T17:56:44.392231-07:00",
           "description": ""
         }
       ],
@@ -485,7 +469,7 @@
         {
           "moved": 0,
           "ringId": "HIGH",
-          "date": "2023-02-13T16:09:41.679742-07:00",
+          "date": "2023-02-13T17:56:44.392232-07:00",
           "description": ""
         }
       ],
@@ -501,39 +485,39 @@
         {
           "moved": 0,
           "ringId": "MID",
-          "date": "2023-02-13T16:09:41.679742-07:00",
+          "date": "2023-02-13T17:56:44.392232-07:00",
           "description": ""
         }
       ],
-      "url": "https://www.microsoft.com/en-us/windows",
-      "key": "Windows",
-      "id": "Windows",
-      "title": "Windows",
+      "url": "https://www.apple.com/macos",
+      "key": "macOS",
+      "id": "macOS",
+      "title": "macOS",
       "quadrant": "OPERATING SYSTEMS",
-      "description": "Windows"
+      "description": "macOS"
     },
     {
       "timeline": [
         {
           "moved": 0,
-          "ringId": "LOW",
-          "date": "2023-02-13T16:09:41.679743-07:00",
+          "ringId": "HIGH",
+          "date": "2023-02-13T17:56:44.392232-07:00",
           "description": ""
         }
       ],
-      "url": "https://www.eclipse.org/ide/",
-      "key": "Eclipse",
-      "id": "Eclipse",
-      "title": "Eclipse",
+      "url": "https://notepad-plus-plus.org/",
+      "key": "Notepad++",
+      "id": "Notepad++",
+      "title": "Notepad++",
       "quadrant": "DEV IDE",
-      "description": "Eclipse"
+      "description": "Notepad++"
     },
     {
       "timeline": [
         {
           "moved": 0,
           "ringId": "UNUSED",
-          "date": "2023-02-13T16:09:41.679743-07:00",
+          "date": "2023-02-13T17:56:44.392232-07:00",
           "description": ""
         }
       ],
@@ -549,7 +533,7 @@
         {
           "moved": 0,
           "ringId": "UNUSED",
-          "date": "2023-02-13T16:09:41.679743-07:00",
+          "date": "2023-02-13T17:56:44.392233-07:00",
           "description": ""
         }
       ],
@@ -559,12 +543,28 @@
       "title": "Bamboo",
       "quadrant": "CI/CD TOOLS",
       "description": "Bamboo"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "MID",
+          "date": "2023-02-13T17:56:44.392233-07:00",
+          "description": ""
+        }
+      ],
+      "url": "https://www.eclipse.org/ide/",
+      "key": "Eclipse",
+      "id": "Eclipse",
+      "title": "Eclipse",
+      "quadrant": "DEV IDE",
+      "description": "Eclipse"
     }
   ],
   "quadrants": [
     {
-      "id": "CI/CD TOOLS",
-      "name": "CI/CD TOOLS"
+      "id": "OPERATING SYSTEMS",
+      "name": "OPERATING SYSTEMS"
     },
     {
       "id": "DEV IDE",
@@ -575,8 +575,8 @@
       "name": "REVISION CONTROL"
     },
     {
-      "id": "OPERATING SYSTEMS",
-      "name": "OPERATING SYSTEMS"
+      "id": "CI/CD TOOLS",
+      "name": "CI/CD TOOLS"
     }
   ],
   "rings": [

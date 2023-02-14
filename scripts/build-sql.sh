@@ -5,6 +5,7 @@ loadArray () {
   quad=$2
   high=$3
   mid=$4
+  sqlfile=$5
 
   arr=()
   while IFS= read -r line; do
@@ -18,7 +19,7 @@ loadArray () {
    if [ "$url" ==  "$name" ] ; then
      url="#"
    fi
-   NAME=$name QUADRANT=$quad URL=$url CSVTABLE="ATS2023" SAMPSZ=244 HIGH=$high MID=$mid envsubst <ats.sql
+   NAME=$name QUADRANT=$quad URL=$url CSVTABLE="ATS2023" SAMPSZ=244 HIGH=$high MID=$mid envsubst <$sqlfile
   if [ "$iter" != "${#arr[@]}" ] ; then
      echo "Union"
   fi
@@ -27,22 +28,22 @@ loadArray () {
 }
 
 buildLang() {
-  loadArray language.txt LANGUAGE ".1" ".05"
+  loadArray language.txt LANGUAGE ".1" ".05" "ats.sql"
   echo "Union"
-  loadArray webframe.txt "WEB FRAMEWORKS" ".1" ".05"
+  loadArray webframe.txt "WEB FRAMEWORKS" ".1" ".05" "ats.sql"
   echo "Union"
-  loadArray otherframe.txt "OTHER FRAMEWORKS" ".1" ".05"
+  loadArray otherframe.txt "OTHER FRAMEWORKS" ".1" ".05" "ats.sql"
   echo "Union"
-  loadArray database.txt "DATABASE" ".1" ".05"
+  loadArray database.txt "DATABASE" ".1" ".05" "ats.sql"
 }
 buildCICD() {
-    loadArray ide.txt "DEV IDE" ".5" ".25"
+    loadArray ide.txt "DEV IDE" ".25" ".1" "ats.sql"
     echo "Union"
-    loadArray revcs.txt "REVISION CONTROL" ".5" ".25"
+    loadArray revcs.txt "REVISION CONTROL" ".25" ".1" "ats-personalvprofessional.sql"
     echo "Union"
-    loadArray opsys.txt "OPERATING SYSTEMS" ".5" ".25"
+    loadArray opsys.txt "OPERATING SYSTEMS" ".25" ".1" "ats-personalvprofessional.sql"
     echo "Union"
-    loadArray cicd.txt "CI/CD TOOLS" ".5" ".25"
+    loadArray cicd.txt "CI/CD TOOLS" ".25" ".1" "ats.sql"
 }
 buildLang > lang.sql
 buildCICD > cicd.sql
