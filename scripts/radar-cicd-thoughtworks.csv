@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,url
+name,ring,quadrant,isNew,description
 Windows,HIGH,OPERATING SYSTEMS,FALSE,https://www.microsoft.com/en-us/windows
 CLion,LOW,DEV IDE,FALSE,https://www.jetbrains.com/clion/
 Bitbucket,LOW,REVISION CONTROL,FALSE,https://bitbucket.org/product
