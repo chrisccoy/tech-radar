@@ -1,0 +1,36 @@
+name,ring,quadrant,isNew,url
+Windows,HIGH,OPERATING SYSTEMS,FALSE,https://www.microsoft.com/en-us/windows
+CLion,LOW,DEV IDE,FALSE,https://www.jetbrains.com/clion/
+Bitbucket,LOW,REVISION CONTROL,FALSE,https://bitbucket.org/product
+Argo,LOW,CI/CD TOOLS,FALSE,https://argoproj.github.io/argo-workflows/use-cases/ci-cd/
+Intellij,HIGH,DEV IDE,FALSE,https://www.jetbrains.com/idea/
+Qt Creator,LOW,DEV IDE,FALSE,https://www.qt.io/product/development-tools
+GitLab,HIGH,REVISION CONTROL,FALSE,https://about.gitlab.com/why-gitlab/
+NetBeans,LOW,DEV IDE,FALSE,https://netbeans.apache.org/
+Visual Studio,MID,DEV IDE,FALSE,https://visualstudio.microsoft.com/
+PyCharm,LOW,DEV IDE,FALSE,https://www.jetbrains.com/pycharm/
+IPython/Jupyter,LOW,DEV IDE,FALSE,https://jupyter.org/
+GitHub,HIGH,REVISION CONTROL,FALSE,https://github.com/
+Android Studio,LOW,DEV IDE,FALSE,https://developer.android.com/studio
+Xcode,LOW,DEV IDE,FALSE,https://developer.apple.com/xcode/
+Atom,LOW,DEV IDE,FALSE,https://github.blog/2022-06-08-sunsetting-atom/
+BSD,LOW,OPERATING SYSTEMS,FALSE,https://www.freebsd.org/
+Gitlab,HIGH,CI/CD TOOLS,FALSE,https://docs.gitlab.com/ee/ci/
+Nano,LOW,DEV IDE,FALSE,https://www.nano-editor.org/
+Cloud Source Repositories,LOW,REVISION CONTROL,FALSE,https://source.cloud.google.com/
+Buildbot,LOW,CI/CD TOOLS,FALSE,https://buildbot.net/
+Travis,LOW,CI/CD TOOLS,FALSE,https://www.travis-ci.com/
+GoLand,LOW,DEV IDE,FALSE,https://www.jetbrains.com/go/
+Emacs,LOW,DEV IDE,FALSE,https://www.gnu.org/software/emacs/
+Codeship,LOW,CI/CD TOOLS,FALSE,https://docs.cloudbees.com/docs/cloudbees-codeship/latest/
+Linux-based,HIGH,OPERATING SYSTEMS,FALSE,https://www.linux.com/what-is-linux/
+PhpStorm,LOW,DEV IDE,FALSE,https://www.jetbrains.com/phpstorm/
+Azure Repos,LOW,REVISION CONTROL,FALSE,https://azure.microsoft.com/en-us/products/devops/repos
+Neovim,LOW,DEV IDE,FALSE,https://neovim.io/
+CircleCI,LOW,CI/CD TOOLS,FALSE,https://circleci.com/
+Jenkins,HIGH,CI/CD TOOLS,FALSE,https://www.jenkins.io/
+macOS,MID,OPERATING SYSTEMS,FALSE,https://www.apple.com/macos
+Notepad++,HIGH,DEV IDE,FALSE,https://notepad-plus-plus.org/
+AWS CodeCommit,UNUSED,REVISION CONTROL,FALSE,https://aws.amazon.com/codecommit/
+Bamboo,UNUSED,CI/CD TOOLS,FALSE,https://www.atlassian.com/software/bamboo
+Eclipse,MID,DEV IDE,FALSE,https://www.eclipse.org/ide/
