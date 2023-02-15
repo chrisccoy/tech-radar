@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,Description
+name,ring,quadrant,isNew,description
 React,HIGH,WEB FRAMEWORKS,FALSE,
 Rust,MID,LANGUAGE,FALSE,
 Electron,LOW,OTHER FRAMEWORKS,FALSE,
