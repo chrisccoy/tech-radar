@@ -34,3 +34,4 @@ Notepad++,HIGH,Dev Tool,FALSE,
 AWS CodeCommit,UNUSED,REVISION CONTROL,FALSE,
 Bamboo,UNUSED,Continuous Int/Delivery,FALSE,
 Eclipse,MID,Dev Tool,FALSE,
+Visual Studio Code,MID,Dev Tool,FALSE,https://code.visualstudio.com/,0
